@@ -1,0 +1,40 @@
+{
+    "version": 1,
+    "updatedAt": "2026-11-13",
+    "groups": [
+      {
+        "id": "openings",
+        "title": "Opening",
+        "titleTh": "เพลงเปิด",
+        "file": "openings.json",
+        "kind": "opening"
+      },
+      {
+        "id": "endings",
+        "title": "Ending",
+        "titleTh": "เพลงปิด",
+        "file": "endings.json",
+        "kind": "ending"
+      },
+      {
+        "id": "movie_openings",
+        "title": "Movie OP",
+        "titleTh": "เปิดหนัง",
+        "file": "movie_openings.json",
+        "kind": "movieOpening"
+      },
+      {
+        "id": "movie_endings",
+        "title": "Movie ED",
+        "titleTh": "ปิดหนัง",
+        "file": "movie_endings.json",
+        "kind": "movieEnding"
+      }
+    ],
+    "files": {
+      "openings.json": "https://raw.githubusercontent.com/morikogoro/cns/main/openings.json",
+      "endings.json": "https://raw.githubusercontent.com/morikogoro/cns/main/endings.json",
+      "movie_openings.json": "https://raw.githubusercontent.com/morikogoro/cns/main/movie_openings.json",
+      "movie_endings.json": "https://raw.githubusercontent.com/morikogoro/cns/main/movie_endings.json"
+    }
+  }
