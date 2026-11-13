@@ -494,13 +494,5 @@
     "artist": "Leon Niihama",
     "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2062%20-%20Ai%20no%20FIRE%20-%20Leon%20Niihama.mp3",
     "artworkUrl": "https://archive.org/download/opcover/op62.webp"
-  },
-  {
-    "id": "op-63",
-    "number": 63,
-    "title": "test",
-    "artist": "test",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2002%20-%20Feel%20Your%20Heart%20-%20Velvet%20Garden.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op2.jpg"
   }
 ]

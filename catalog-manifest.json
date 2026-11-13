@@ -1,6 +1,22 @@
 {
-    "version": 2,
+    "version": 3,
     "updatedAt": "2026-11-13",
+    "changelog": [
+      {
+        "version": 3,
+        "date": "2026-11-13",
+        "notes": [
+          "Opening: removed op-63 test opening"
+        ]
+      },
+      {
+        "version": 2,
+        "date": "2026-11-13",
+        "notes": [
+          "Opening: initial remote catalog sync"
+        ]
+      }
+    ],
     "groups": [
       {
         "id": "openings",
