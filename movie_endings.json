@@ -4,6 +4,7 @@
     "number": 1,
     "title": "Happy Birthday",
     "artist": "Kyoko",
+    "releasedOn": "1997-04-23",
     "audioUrl": "https://archive.org/download/MovieEnding/01%20-%20Happy%20Birthday%20-%20Kyoko.mp3",
     "artworkUrl": "https://archive.org/download/movie_ending/mo1.jpg",
     "kind": "movieEnding"
@@ -13,6 +14,7 @@
     "number": 2,
     "title": "Shojo no Koro ni Modotta Mitai ni",
     "artist": "ZARD",
+    "releasedOn": "1998-09-09",
     "audioUrl": "https://archive.org/download/MovieEnding/02%20-%20Shoujo%20no%20Koro%20ni%20Modotta%20Mitai%20ni%20-%20ZARD.mp3",
     "artworkUrl": "https://archive.org/download/movie_ending/mo2.jpg",
     "kind": "movieEnding"
@@ -22,6 +24,7 @@
     "number": 3,
     "title": "ONE",
     "artist": "B'z",
+    "releasedOn": "1999-06-09",
     "audioUrl": "https://archive.org/download/MovieEnding/03%20-%20One%20-%20B%27z.mp3",
     "artworkUrl": "https://archive.org/download/movie_ending/mo3.jpg",
     "kind": "movieEnding"
@@ -30,7 +33,8 @@
     "id": "movie-ed-4",
     "number": 4,
     "title": "Anata ga Iru Kara",
-    "artist": "Miho Komatsu",
+    "artist": "Komatsu Miho",
+    "releasedOn": "2000-06-21",
     "audioUrl": "https://archive.org/download/MovieEnding/04%20-%20Anata%20ga%20Iru%20Kara%20-%20Komatsu%20Miho.mp3",
     "artworkUrl": "https://archive.org/download/movie_ending/mo4.jpg",
     "kind": "movieEnding"
@@ -39,7 +43,8 @@
     "id": "movie-ed-5",
     "number": 5,
     "title": "always",
-    "artist": "Mai Kuraki",
+    "artist": "Kuraki Mai",
+    "releasedOn": "2001-06-06",
     "audioUrl": "https://archive.org/download/MovieEnding/05%20-%20Always%20-%20Kuraki%20Mai.mp3",
     "artworkUrl": "https://archive.org/download/movie_ending/mo5.jpg",
     "kind": "movieEnding"
@@ -49,6 +54,7 @@
     "number": 6,
     "title": "Everlasting",
     "artist": "B'z",
+    "releasedOn": "2002-07-03",
     "audioUrl": "https://archive.org/download/MovieEnding/06%20-%20Everlasting%20-%20B%27z.mp3",
     "artworkUrl": "https://archive.org/download/movie_ending/mo6.jpg",
     "kind": "movieEnding"
@@ -57,7 +63,8 @@
     "id": "movie-ed-7",
     "number": 7,
     "title": "Time After Time ~Hana Mau Machi de",
-    "artist": "Mai Kuraki",
+    "artist": "Kuraki Mai",
+    "releasedOn": "2003-03-05",
     "audioUrl": "https://archive.org/download/MovieEnding/07%20-%20Time%20After%20Time%20~Hana%20Mau%20Machi%20de%20-%20Kuraki%20Mai.mp3",
     "artworkUrl": "https://archive.org/download/movie_ending/mo7.jpg",
     "kind": "movieEnding"
@@ -66,7 +73,8 @@
     "id": "movie-ed-8",
     "number": 8,
     "title": "Dream×Dream",
-    "artist": "Rina Aiuchi",
+    "artist": "Aiuchi Rina",
+    "releasedOn": "2004-04-28",
     "audioUrl": "https://archive.org/download/MovieEnding/08%20-%20Dream%20X%20Dream%20-%20Aiuchi%20Rina.mp3",
     "artworkUrl": "https://archive.org/download/movie_ending/mo8.jpg",
     "kind": "movieEnding"
@@ -76,6 +84,7 @@
     "number": 9,
     "title": "Natsu o Matsu Sail no Yoni",
     "artist": "ZARD",
+    "releasedOn": "2005-04-20",
     "audioUrl": "https://archive.org/download/MovieEnding/09%20-%20Natsu%20wo%20Matsu%20Sail%20no%20Yo%20ni%20-%20ZARD.mp3",
     "artworkUrl": "https://archive.org/download/movie_ending/mo9.jpg",
     "kind": "movieEnding"
@@ -85,6 +94,7 @@
     "number": 10,
     "title": "Yuruginai Mono Hitotsu",
     "artist": "B'z",
+    "releasedOn": "2006-04-12",
     "audioUrl": "https://archive.org/download/MovieEnding/10%20-%20Yuruginai%20mono%20Hitotsu%20-%20B%27z.mp3",
     "artworkUrl": "https://archive.org/download/movie_ending/mo10.jpg",
     "kind": "movieEnding"
@@ -93,7 +103,8 @@
     "id": "movie-ed-11",
     "number": 11,
     "title": "Nanatsu no Umi o Wataru Kaze no Yoni",
-    "artist": "Rina Aiuchi & U-ka saegusa",
+    "artist": "Aiuchi Rina & Saegusa U-ka",
+    "releasedOn": "2007-04-11",
     "audioUrl": "https://archive.org/download/MovieEnding/11%20-%20Nanatsu%20no%20Umi%20wo%20Wataru%20Kaze%20no%20you%20ni%20-%20Aiuchi%20Rina%20%26%20Saegusa%20U-ka.mp3",
     "artworkUrl": "https://archive.org/download/movie_ending/mo11.jpg",
     "kind": "movieEnding"
@@ -103,6 +114,7 @@
     "number": 12,
     "title": "Tsubasa o Hirogete",
     "artist": "ZARD",
+    "releasedOn": "2008-04-09",
     "audioUrl": "https://archive.org/download/MovieEnding/12%20-%20Tsubasa%20wo%20Hirogete%20-%20ZARD.mp3",
     "artworkUrl": "https://archive.org/download/movie_ending/mo12.jpg",
     "kind": "movieEnding"
@@ -111,7 +123,8 @@
     "id": "movie-ed-13",
     "number": 13,
     "title": "PUZZLE",
-    "artist": "Mai Kuraki",
+    "artist": "Kuraki Mai",
+    "releasedOn": "2009-04-01",
     "audioUrl": "https://archive.org/download/MovieEnding/13%20-%20PUZZLE%20-%20Kuraki%20Mai.mp3",
     "artworkUrl": "https://archive.org/download/movie_ending/mo13.jpg",
     "kind": "movieEnding"
@@ -121,6 +134,7 @@
     "number": 14,
     "title": "Over Drive",
     "artist": "GARNET CROW",
+    "releasedOn": "2010-04-14",
     "audioUrl": "https://archive.org/download/MovieEnding/14%20-%20Over%20Drive%20-%20GARNET%20CROW.mp3",
     "artworkUrl": "https://archive.org/download/movie_ending/mo14.jpg",
     "kind": "movieEnding"
@@ -130,6 +144,7 @@
     "number": 15,
     "title": "Don't Wanna Lie",
     "artist": "B'z",
+    "releasedOn": "2011-04-30",
     "audioUrl": "https://archive.org/download/MovieEnding/15%20-%20Don%27t%20Wanna%20Lie%20-%20B%27z.mp3",
     "artworkUrl": "https://archive.org/download/movie_ending/mo15.jpg",
     "kind": "movieEnding"
@@ -139,6 +154,7 @@
     "number": 16,
     "title": "Haru Uta",
     "artist": "Ikimono-gakari",
+    "releasedOn": "2012-04-25",
     "audioUrl": "https://archive.org/download/MovieEnding/16%20-%20Haruuta%20-%20Ikimono-Gakari.mp3",
     "artworkUrl": "https://archive.org/download/movie_ending/mo16.jpg",
     "kind": "movieEnding"
@@ -147,7 +163,8 @@
     "id": "movie-ed-17",
     "number": 17,
     "title": "One More Time",
-    "artist": "Kazuyoshi Saito",
+    "artist": "Saito Kazuyoshi",
+    "releasedOn": "2013-04-17",
     "audioUrl": "https://archive.org/download/MovieEnding/17%20-%20One%20More%20Time%20-%20Saito%20Kazuyoshi.mp3",
     "artworkUrl": "https://archive.org/download/movie_ending/mo17.jpg",
     "kind": "movieEnding"
@@ -156,7 +173,8 @@
     "id": "movie-ed-18",
     "number": 18,
     "title": "Love Searchlight",
-    "artist": "Ko Shibasaki",
+    "artist": "Shibasaki Ko",
+    "releasedOn": "2014-04-16",
     "audioUrl": "https://archive.org/download/MovieEnding/18%20-%20Love%20Searchlight%20-%20Shibasaki%20Kou.mp3",
     "artworkUrl": "https://archive.org/download/movie_ending/mo18.jpg",
     "kind": "movieEnding"
@@ -166,6 +184,7 @@
     "number": 19,
     "title": "Oh! Rival",
     "artist": "Porno Graffitti",
+    "releasedOn": "2015-04-15",
     "audioUrl": "https://archive.org/download/MovieEnding/19%20-%20Oh%21%20Rival%20-%20Porno%20Graffitti.mp3",
     "artworkUrl": "https://archive.org/download/movie_ending/mo19.jpg",
     "kind": "movieEnding"
@@ -175,6 +194,7 @@
     "number": 20,
     "title": "Sekai wa Anata no Iro ni Naru",
     "artist": "B'z",
+    "releasedOn": "2016-10-04",
     "audioUrl": "https://archive.org/download/MovieEnding/20%20-%20Sekai%20wa%20Anata%20no%20Iro%20ni%20Naru%20-%20B%27z.mp3",
     "artworkUrl": "https://archive.org/download/movie_ending/mo20.jpg",
     "kind": "movieEnding"
@@ -183,7 +203,8 @@
     "id": "movie-ed-21",
     "number": 21,
     "title": "Togetsukyo ~Kimi Omou~",
-    "artist": "Mai Kuraki",
+    "artist": "Kuraki Mai",
+    "releasedOn": "2017-04-12",
     "audioUrl": "https://archive.org/download/MovieEnding/21%20-%20Togetsukyou%20~Kimi%20Omofu~%20-%20Kuraki%20Mai.mp3",
     "artworkUrl": "https://archive.org/download/movie_ending/mo21.jpg",
     "kind": "movieEnding"
@@ -192,7 +213,8 @@
     "id": "movie-ed-22",
     "number": 22,
     "title": "Zero -ZERO-",
-    "artist": "Masaharu Fukuyama",
+    "artist": "Fukuyama Masaharu",
+    "releasedOn": "2018-04-07",
     "audioUrl": "https://archive.org/download/MovieEnding/22%20-%20Zero%20-ZERO-%20-%20Fukuyama%20Masaharu.mp3",
     "artworkUrl": "https://archive.org/download/movie_ending/mo22.jpg",
     "kind": "movieEnding"
@@ -201,7 +223,8 @@
     "id": "movie-ed-23",
     "number": 23,
     "title": "BLUE SAPPHIRE",
-    "artist": "Hiroomi Tosaka",
+    "artist": "Tosaka Hiroomi",
+    "releasedOn": "2019-04-10",
     "audioUrl": "https://archive.org/download/MovieEnding/23%20-%20BLUE%20SAPPHIRE%20-%20Tosaka%20Hiroomi.mp3",
     "artworkUrl": "https://archive.org/download/movie_ending/mo23.jpg",
     "kind": "movieEnding"
@@ -211,6 +234,7 @@
     "number": 24,
     "title": "Eien no Fuzai Shoumei",
     "artist": "Tokyo Jihen",
+    "releasedOn": "2020-04-08",
     "audioUrl": "https://archive.org/download/MovieEnding/24%20-%20Eien%20no%20Fuzai%20Shoumei%20-%20Tokyo%20Jihen.mp3",
     "artworkUrl": "https://archive.org/download/movie_ending/mo24.jpg",
     "kind": "movieEnding"
@@ -220,6 +244,7 @@
     "number": 25,
     "title": "Chronostasis",
     "artist": "BUMP OF CHICKEN",
+    "releasedOn": "2022-04-11",
     "audioUrl": "https://archive.org/download/MovieEnding/25%20-%20Chronostasis%20-%20BUMP%20OF%20CHICKEN.mp3",
     "artworkUrl": "https://archive.org/download/movie_ending/mo25.jpg",
     "kind": "movieEnding"
@@ -229,6 +254,7 @@
     "number": 26,
     "title": "Utsukushii Hire",
     "artist": "Spitz",
+    "releasedOn": "2023-04-10",
     "audioUrl": "https://archive.org/download/MovieEnding/26%20-%20Utsukushii%20Hire%20-%20Spitz.mp3",
     "artworkUrl": "https://archive.org/download/movie_ending/mo26.jpg",
     "kind": "movieEnding"
@@ -238,6 +264,7 @@
     "number": 27,
     "title": "Soshisouai",
     "artist": "aiko",
+    "releasedOn": "2024-04-12",
     "audioUrl": "https://archive.org/download/MovieEnding/27%20-%20Soshisouai%20-%20aiko.mp3",
     "artworkUrl": "https://archive.org/download/movie_ending/mo27.jpg",
     "kind": "movieEnding"
@@ -247,6 +274,7 @@
     "number": 28,
     "title": "TWILIGHT!!!",
     "artist": "King Gnu",
+    "releasedOn": "2025-04-18",
     "audioUrl": "https://archive.org/download/MovieEnding/28%20-%20TWILIGHT%21%21%21%20-%20King%20Gnu.mp3",
     "artworkUrl": "https://archive.org/download/movie_ending/mo28.jpg",
     "kind": "movieEnding"
@@ -256,6 +284,7 @@
     "number": 29,
     "title": "Last Dance Anata to",
     "artist": "MISIA",
+    "releasedOn": "2026-04-10",
     "audioUrl": "https://archive.org/download/MovieEnding/29%20-%20Last%20Dance%20Anata%20to%20-%20MISIA.mp3",
     "artworkUrl": "https://archive.org/download/movie_ending/mo29.jpg",
     "kind": "movieEnding"

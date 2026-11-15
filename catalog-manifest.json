@@ -1,7 +1,22 @@
 {
-    "version": 3,
-    "updatedAt": "2026-11-13",
+    "version": 5,
+    "updatedAt": "2026-11-15",
     "changelog": [
+      {
+        "version": 5,
+        "date": "2026-11-15",
+        "notes": [
+          "Tracks: optional releasedOn (single release date, YYYY-MM-DD)",
+          "Artists: family name before given name where a personal name was reversed"
+        ]
+      },
+      {
+        "version": 4,
+        "date": "2026-11-15",
+        "notes": [
+          "Suggested: new playlist list (suggested-playlists.json)"
+        ]
+      },
       {
         "version": 3,
         "date": "2026-11-13",
@@ -17,6 +32,7 @@
         ]
       }
     ],
+    "suggestedPlaylists": "suggested-playlists.json",
     "groups": [
       {
         "id": "openings",
@@ -51,6 +67,7 @@
       "openings.json": "https://raw.githubusercontent.com/morikogoro/cns/main/openings.json",
       "endings.json": "https://raw.githubusercontent.com/morikogoro/cns/main/endings.json",
       "movie_openings.json": "https://raw.githubusercontent.com/morikogoro/cns/main/movie_openings.json",
-      "movie_endings.json": "https://raw.githubusercontent.com/morikogoro/cns/main/movie_endings.json"
+      "movie_endings.json": "https://raw.githubusercontent.com/morikogoro/cns/main/movie_endings.json",
+      "suggested-playlists.json": "https://raw.githubusercontent.com/morikogoro/cns/main/suggested-playlists.json"
     }
   }

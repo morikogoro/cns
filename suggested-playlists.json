@@ -1,0 +1,118 @@
+[
+  {
+    "id": "kuraki-mai",
+    "title": "Kuraki Mai",
+    "trackIds": [
+      "op-10",
+      "op-12",
+      "op-16",
+      "op-23",
+      "op-25",
+      "op-29",
+      "op-35",
+      "op-39",
+      "op-49",
+      "op-53",
+      "op-58",
+      "ed-9",
+      "ed-11",
+      "ed-12",
+      "ed-26",
+      "ed-36",
+      "ed-40",
+      "ed-43",
+      "ed-48",
+      "ed-52",
+      "ed-53",
+      "ed-55",
+      "ed-59",
+      "ed-64",
+      "ed-70",
+      "ed-74",
+      "ed-76",
+      "movie-ed-5",
+      "movie-ed-7",
+      "movie-ed-13",
+      "movie-ed-21"
+    ]
+  },
+  {
+    "id": "bz",
+    "title": "B'z",
+    "trackIds": [
+      "op-6",
+      "op-17",
+      "op-31",
+      "op-36",
+      "op-43",
+      "op-55",
+      "op-61",
+      "ed-39",
+      "movie-ed-3",
+      "movie-ed-6",
+      "movie-ed-10",
+      "movie-ed-15",
+      "movie-ed-20"
+    ]
+  },
+  {
+    "id": "aiuchi-rina",
+    "title": "Aiuchi Rina",
+    "trackIds": [
+      "op-8",
+      "op-11",
+      "op-14",
+      "op-18",
+      "op-27",
+      "movie-ed-8",
+      "movie-ed-11"
+    ]
+  },
+  {
+    "id": "breakerz",
+    "title": "BREAKERZ",
+    "trackIds": [
+      "op-26",
+      "op-33",
+      "op-40",
+      "op-44",
+      "ed-34",
+      "ed-38",
+      "ed-42",
+      "ed-54",
+      "ed-65"
+    ]
+  },
+  {
+    "id": "zard",
+    "title": "ZARD",
+    "trackIds": [
+      "op-4",
+      "op-15",
+      "op-21",
+      "op-22",
+      "ed-17",
+      "ed-24",
+      "movie-ed-2",
+      "movie-ed-9",
+      "movie-ed-12"
+    ]
+  },
+  {
+    "id": "garnet-crow",
+    "title": "GARNET CROW",
+    "trackIds": [
+      "op-7",
+      "op-20",
+      "op-28",
+      "op-32",
+      "ed-10",
+      "ed-14",
+      "ed-18",
+      "ed-20",
+      "ed-28",
+      "ed-33",
+      "movie-ed-14"
+    ]
+  }
+]
