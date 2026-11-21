@@ -1,7 +1,15 @@
 {
-    "version": 7,
+    "version": 8,
     "updatedAt": "2026-11-21",
     "changelog": [
+      {
+        "version": 8,
+        "date": "2026-11-21",
+        "notes": [
+          "Tracks: optional durationMs (MP3 length in milliseconds)",
+          "Every track lists its Pages audio URL first (named by track id), uploaded or not"
+        ]
+      },
       {
         "version": 7,
         "date": "2026-11-21",
