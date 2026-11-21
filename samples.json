@@ -1,0 +1,878 @@
+[
+  {
+    "id": "op-1",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 0,
+    "endSeconds": 104,
+    "cropX": 12.5
+  },
+  {
+    "id": "ed-1",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 104,
+    "endSeconds": 195,
+    "cropX": 12.5
+  },
+  {
+    "id": "ed-2",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 195,
+    "endSeconds": 286,
+    "cropX": 12.5
+  },
+  {
+    "id": "op-2",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 286,
+    "endSeconds": 376,
+    "cropX": 12.5
+  },
+  {
+    "id": "ed-3",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 376,
+    "endSeconds": 461,
+    "cropX": 12.5
+  },
+  {
+    "id": "op-3",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 461,
+    "endSeconds": 556,
+    "cropX": 12.5
+  },
+  {
+    "id": "ed-4",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 556,
+    "endSeconds": 644,
+    "cropX": 12.5
+  },
+  {
+    "id": "ed-5",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 644,
+    "endSeconds": 729,
+    "cropX": 12.5
+  },
+  {
+    "id": "op-4",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 729,
+    "endSeconds": 824,
+    "cropX": 12.5
+  },
+  {
+    "id": "ed-6",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 824,
+    "endSeconds": 909,
+    "cropX": 12.5
+  },
+  {
+    "id": "op-5",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 909,
+    "endSeconds": 1004,
+    "cropX": 12.5
+  },
+  {
+    "id": "ed-7",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 1004,
+    "endSeconds": 1092,
+    "cropX": 12.5
+  },
+  {
+    "id": "op-6",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 1092,
+    "endSeconds": 1187,
+    "cropX": 12.5
+  },
+  {
+    "id": "ed-8",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 1187,
+    "endSeconds": 1272,
+    "cropX": 12.5
+  },
+  {
+    "id": "op-7",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 1272,
+    "endSeconds": 1376,
+    "cropX": 12.5
+  },
+  {
+    "id": "ed-9",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 1376,
+    "endSeconds": 1460,
+    "cropX": 12
+  },
+  {
+    "id": "op-8",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 1460,
+    "endSeconds": 1560,
+    "cropX": 12.5
+  },
+  {
+    "id": "ed-10",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 1560,
+    "endSeconds": 1645,
+    "cropX": 12.5
+  },
+  {
+    "id": "ed-11",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 1645,
+    "endSeconds": 1730,
+    "cropX": 12.5
+  },
+  {
+    "id": "op-9",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 1730,
+    "endSeconds": 1830,
+    "cropX": 12.5
+  },
+  {
+    "id": "ed-12",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 1830,
+    "endSeconds": 1918,
+    "cropX": 12.5
+  },
+  {
+    "id": "ed-13",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 1918,
+    "endSeconds": 2004,
+    "cropX": 12.5
+  },
+  {
+    "id": "op-10",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 2004,
+    "endSeconds": 2106,
+    "cropX": 12.5
+  },
+  {
+    "id": "ed-14",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 2106,
+    "endSeconds": 2191,
+    "cropX": 12.5
+  },
+  {
+    "id": "op-11",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 2191,
+    "endSeconds": 2293,
+    "cropX": 12
+  },
+  {
+    "id": "ed-15",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 2293,
+    "endSeconds": 2378,
+    "cropX": 12
+  },
+  {
+    "id": "ed-16",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 2378,
+    "endSeconds": 2468,
+    "cropX": 12
+  },
+  {
+    "id": "op-12",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 2468,
+    "endSeconds": 2569,
+    "cropX": 12
+  },
+  {
+    "id": "ed-17",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 2569,
+    "endSeconds": 2659,
+    "cropX": 12
+  },
+  {
+    "id": "ed-18",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 2659,
+    "endSeconds": 2744,
+    "cropX": 12
+  },
+  {
+    "id": "op-13",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 2744,
+    "endSeconds": 2846,
+    "cropX": 12
+  },
+  {
+    "id": "ed-19",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 2846,
+    "endSeconds": 2931,
+    "cropX": 12
+  },
+  {
+    "id": "op-14",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 2931,
+    "endSeconds": 3046,
+    "cropX": 12
+  },
+  {
+    "id": "ed-20",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 3046,
+    "endSeconds": 3131,
+    "cropX": 12
+  },
+  {
+    "id": "op-15",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 3131,
+    "endSeconds": 3246,
+    "cropX": 12
+  },
+  {
+    "id": "ed-21",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 3246,
+    "endSeconds": 3331,
+    "cropX": 12
+  },
+  {
+    "id": "ed-22",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 3331,
+    "endSeconds": 3416,
+    "cropX": 12
+  },
+  {
+    "id": "op-16",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 3416,
+    "endSeconds": 3531,
+    "cropX": 12
+  },
+  {
+    "id": "ed-23",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 3531,
+    "endSeconds": 3616,
+    "cropX": 12
+  },
+  {
+    "id": "op-17",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 3616,
+    "endSeconds": 3731,
+    "cropX": 12
+  },
+  {
+    "id": "ed-24",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 3731,
+    "endSeconds": 3816,
+    "cropX": 12
+  },
+  {
+    "id": "op-18",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 3816,
+    "endSeconds": 3918,
+    "cropX": 12
+  },
+  {
+    "id": "ed-25",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 3918,
+    "endSeconds": 4003,
+    "cropX": 12
+  },
+  {
+    "id": "op-19",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 4003,
+    "endSeconds": 4105,
+    "cropY": 1.5
+  },
+  {
+    "id": "ed-26",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 4105,
+    "endSeconds": 4190,
+    "cropY": 1.5
+  },
+  {
+    "id": "ed-27",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 4190,
+    "endSeconds": 4275,
+    "cropY": 1.5
+  },
+  {
+    "id": "op-20",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 4275,
+    "endSeconds": 4378,
+    "cropY": 1.5
+  },
+  {
+    "id": "op-21",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 4378,
+    "endSeconds": 4497,
+    "cropY": 1.5
+  },
+  {
+    "id": "ed-28",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 4497,
+    "endSeconds": 4583,
+    "cropY": 1.5
+  },
+  {
+    "id": "op-22",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 4583,
+    "endSeconds": 4685,
+    "cropY": 1.5
+  },
+  {
+    "id": "ed-29",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 4685,
+    "endSeconds": 4770,
+    "cropY": 1.5
+  },
+  {
+    "id": "op-23",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 4770,
+    "endSeconds": 4870,
+    "cropY": 1.5
+  },
+  {
+    "id": "ed-30",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 4870,
+    "endSeconds": 4955,
+    "cropY": 1.5
+  },
+  {
+    "id": "op-24",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 4955,
+    "endSeconds": 5057,
+    "cropY": 1.5
+  },
+  {
+    "id": "ed-31",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 5057,
+    "endSeconds": 5137,
+    "cropY": 1.5
+  },
+  {
+    "id": "op-25",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 5137,
+    "endSeconds": 5240,
+    "cropY": 1.5
+  },
+  {
+    "id": "ed-32",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 5240,
+    "endSeconds": 5320,
+    "cropY": 1.5
+  },
+  {
+    "id": "op-26",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 5320,
+    "endSeconds": 5426,
+    "cropY": 1.5
+  },
+  {
+    "id": "ed-33",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 5426,
+    "endSeconds": 5506,
+    "cropY": 1.5
+  },
+  {
+    "id": "ed-34",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 5506,
+    "endSeconds": 5586,
+    "cropY": 1.5
+  },
+  {
+    "id": "op-27",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 5586,
+    "endSeconds": 5691,
+    "cropY": 1.5
+  },
+  {
+    "id": "ed-35",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 5691,
+    "endSeconds": 5771,
+    "cropY": 1.5
+  },
+  {
+    "id": "op-28",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 5771,
+    "endSeconds": 5886,
+    "cropY": 1.5
+  },
+  {
+    "id": "op-29",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 5886,
+    "endSeconds": 5990,
+    "cropY": 1.5
+  },
+  {
+    "id": "ed-36",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 5990,
+    "endSeconds": 6070,
+    "cropY": 1.5
+  },
+  {
+    "id": "op-30",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 6070,
+    "endSeconds": 6172,
+    "cropY": 1.5
+  },
+  {
+    "id": "ed-37",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 6172,
+    "endSeconds": 6252,
+    "cropY": 1.5
+  },
+  {
+    "id": "ed-38",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 6252,
+    "endSeconds": 6332,
+    "cropY": 1.5
+  },
+  {
+    "id": "op-31",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 6332,
+    "endSeconds": 6434,
+    "cropY": 1.5
+  },
+  {
+    "id": "op-32",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 6434,
+    "endSeconds": 6536,
+    "cropY": 1.5
+  },
+  {
+    "id": "ed-39",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 6536,
+    "endSeconds": 6616,
+    "cropY": 1.5
+  },
+  {
+    "id": "ed-40",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 6616,
+    "endSeconds": 6696,
+    "cropY": 1.5
+  },
+  {
+    "id": "op-33",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 6696,
+    "endSeconds": 6798,
+    "cropY": 1.5
+  },
+  {
+    "id": "ed-41",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 6798,
+    "endSeconds": 6878,
+    "cropY": 1.5
+  },
+  {
+    "id": "ed-42",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 6878,
+    "endSeconds": 6958,
+    "cropY": 1.5
+  },
+  {
+    "id": "op-34",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 6958,
+    "endSeconds": 7060
+  },
+  {
+    "id": "ed-43",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 7060,
+    "endSeconds": 7140
+  },
+  {
+    "id": "op-35",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 7140,
+    "endSeconds": 7240
+  },
+  {
+    "id": "ed-44",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 7240,
+    "endSeconds": 7320,
+    "cropY": 1.5
+  },
+  {
+    "id": "op-36",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 7320,
+    "endSeconds": 7423,
+    "cropY": 1.5
+  },
+  {
+    "id": "ed-45",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 7423,
+    "endSeconds": 7503,
+    "cropY": 1.5
+  },
+  {
+    "id": "op-37",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 7503,
+    "endSeconds": 7618
+  },
+  {
+    "id": "ed-46",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 7618,
+    "endSeconds": 7698
+  },
+  {
+    "id": "ed-47",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 7698,
+    "endSeconds": 7778
+  },
+  {
+    "id": "op-38",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 7778,
+    "endSeconds": 7893
+  },
+  {
+    "id": "ed-48",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 7893,
+    "endSeconds": 7973
+  },
+  {
+    "id": "op-39",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 7973,
+    "endSeconds": 8088
+  },
+  {
+    "id": "ed-49",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 8088,
+    "endSeconds": 8168
+  },
+  {
+    "id": "op-40",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 8168,
+    "endSeconds": 8283
+  },
+  {
+    "id": "op-41",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 8283,
+    "endSeconds": 8398
+  },
+  {
+    "id": "op-42",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 8398,
+    "endSeconds": 8508
+  },
+  {
+    "id": "ed-50",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 8508,
+    "endSeconds": 8588
+  },
+  {
+    "id": "ed-51",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 8588,
+    "endSeconds": 8667
+  },
+  {
+    "id": "op-43",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 8667,
+    "endSeconds": 8782
+  },
+  {
+    "id": "ed-52",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 8782,
+    "endSeconds": 8862
+  },
+  {
+    "id": "ed-53",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 8862,
+    "endSeconds": 8942
+  },
+  {
+    "id": "op-44",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 8942,
+    "endSeconds": 9057
+  },
+  {
+    "id": "ed-54",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 9057,
+    "endSeconds": 9137
+  },
+  {
+    "id": "op-45",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 9137,
+    "endSeconds": 9252
+  },
+  {
+    "id": "ed-55",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 9252,
+    "endSeconds": 9332
+  },
+  {
+    "id": "op-46",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 9332,
+    "endSeconds": 9447
+  },
+  {
+    "id": "ed-56",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 9447,
+    "endSeconds": 9527
+  },
+  {
+    "id": "op-47",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 9527,
+    "endSeconds": 9642
+  },
+  {
+    "id": "ed-57",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 9642,
+    "endSeconds": 9722
+  },
+  {
+    "id": "ed-58",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 9722,
+    "endSeconds": 9802
+  },
+  {
+    "id": "op-48",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 9802,
+    "endSeconds": 9917
+  },
+  {
+    "id": "op-49",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 9917,
+    "endSeconds": 10032
+  },
+  {
+    "id": "ed-59",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 10032,
+    "endSeconds": 10112
+  },
+  {
+    "id": "op-50",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 10112,
+    "endSeconds": 10227
+  },
+  {
+    "id": "ed-60",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 10227,
+    "endSeconds": 10307
+  },
+  {
+    "id": "op-51",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 10307,
+    "endSeconds": 10422
+  },
+  {
+    "id": "ed-61",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 10422,
+    "endSeconds": 10502
+  },
+  {
+    "id": "ed-62",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 10502,
+    "endSeconds": 10582
+  },
+  {
+    "id": "op-52",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 10582,
+    "endSeconds": 10697
+  },
+  {
+    "id": "ed-63",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 10697,
+    "endSeconds": 10777
+  },
+  {
+    "id": "op-53",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 10777,
+    "endSeconds": 10877
+  },
+  {
+    "id": "ed-64",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 10877,
+    "endSeconds": 10956
+  },
+  {
+    "id": "op-54",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 10956,
+    "endSeconds": 11074
+  },
+  {
+    "id": "ed-65",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 11074,
+    "endSeconds": 11154
+  },
+  {
+    "id": "op-55",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 11154,
+    "endSeconds": 11267
+  },
+  {
+    "id": "ed-66",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 11267,
+    "endSeconds": 11347
+  },
+  {
+    "id": "op-56",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 11347,
+    "endSeconds": 11462
+  },
+  {
+    "id": "ed-67",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 11462,
+    "endSeconds": 11542
+  },
+  {
+    "id": "ed-68",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 11542,
+    "endSeconds": 11622
+  },
+  {
+    "id": "op-57",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 11622,
+    "endSeconds": 11737
+  },
+  {
+    "id": "ed-69",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 11737,
+    "endSeconds": 11817
+  },
+  {
+    "id": "op-58",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 11817,
+    "endSeconds": 11932
+  },
+  {
+    "id": "ed-70",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 11932,
+    "endSeconds": 12012
+  },
+  {
+    "id": "ed-71",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 12012,
+    "endSeconds": 12092
+  },
+  {
+    "id": "op-59",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 12092,
+    "endSeconds": 12205
+  },
+  {
+    "id": "ed-72",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 12205,
+    "endSeconds": 12285
+  },
+  {
+    "id": "ed-73",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 12285,
+    "endSeconds": 12365
+  },
+  {
+    "id": "op-60",
+    "videoUrl": "https://archive.org/download/videoplayback_20261120_1708/samples-fmp4.mp4",
+    "startSeconds": 12365,
+    "endSeconds": 12480
+  }
+]

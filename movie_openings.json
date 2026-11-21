@@ -5,8 +5,13 @@
     "title": "The Time-Bombed Skyscraper",
     "artist": "Ohno Katsuo",
     "releasedOn": "1997-04-23",
-    "audioUrl": "https://archive.org/download/conan_movie_opening/1.mp3",
-    "artworkUrl": "https://archive.org/download/movie_opening/mom1.webp",
+    "audioUrls": [
+      "https://archive.org/download/conan_movie_opening/1.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/mop/movie-op-1.webp",
+      "https://archive.org/download/movie_opening/mom1.webp"
+    ],
     "kind": "movieOpening"
   },
   {
@@ -15,8 +20,13 @@
     "title": "The Fourteenth Target",
     "artist": "Ohno Katsuo",
     "releasedOn": "1998-04-15",
-    "audioUrl": "https://archive.org/download/conan_movie_opening/2.mp3",
-    "artworkUrl": "https://archive.org/download/movie_opening/mom2.webp",
+    "audioUrls": [
+      "https://archive.org/download/conan_movie_opening/2.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/mop/movie-op-2.webp",
+      "https://archive.org/download/movie_opening/mom2.webp"
+    ],
     "kind": "movieOpening"
   },
   {
@@ -25,8 +35,13 @@
     "title": "The Last Wizard of the Century",
     "artist": "Ohno Katsuo",
     "releasedOn": "1999-04-14",
-    "audioUrl": "https://archive.org/download/conan_movie_opening/3.mp3",
-    "artworkUrl": "https://archive.org/download/movie_opening/mom3.webp",
+    "audioUrls": [
+      "https://archive.org/download/conan_movie_opening/3.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/mop/movie-op-3.webp",
+      "https://archive.org/download/movie_opening/mom3.webp"
+    ],
     "kind": "movieOpening"
   },
   {
@@ -35,8 +50,13 @@
     "title": "Captured in Her Eyes",
     "artist": "Ohno Katsuo",
     "releasedOn": "2000-04-12",
-    "audioUrl": "https://archive.org/download/conan_movie_opening/4.mp3",
-    "artworkUrl": "https://archive.org/download/movie_opening/mom4.webp",
+    "audioUrls": [
+      "https://archive.org/download/conan_movie_opening/4.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/mop/movie-op-4.webp",
+      "https://archive.org/download/movie_opening/mom4.webp"
+    ],
     "kind": "movieOpening"
   },
   {
@@ -45,8 +65,13 @@
     "title": "Countdown to Heaven",
     "artist": "Ohno Katsuo",
     "releasedOn": "2001-04-11",
-    "audioUrl": "https://archive.org/download/conan_movie_opening/5.mp3",
-    "artworkUrl": "https://archive.org/download/movie_opening/mom5.webp",
+    "audioUrls": [
+      "https://archive.org/download/conan_movie_opening/5.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/mop/movie-op-5.webp",
+      "https://archive.org/download/movie_opening/mom5.webp"
+    ],
     "kind": "movieOpening"
   },
   {
@@ -55,8 +80,13 @@
     "title": "The Phantom of Baker Street",
     "artist": "Ohno Katsuo",
     "releasedOn": "2002-04-17",
-    "audioUrl": "https://archive.org/download/conan_movie_opening/6.mp3",
-    "artworkUrl": "https://archive.org/download/movie_opening/mom6.webp",
+    "audioUrls": [
+      "https://archive.org/download/conan_movie_opening/6.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/mop/movie-op-6.webp",
+      "https://archive.org/download/movie_opening/mom6.webp"
+    ],
     "kind": "movieOpening"
   },
   {
@@ -65,8 +95,13 @@
     "title": "Crossroad in the Ancient Capital",
     "artist": "Ohno Katsuo",
     "releasedOn": "2003-04-16",
-    "audioUrl": "https://archive.org/download/conan_movie_opening/7.mp3",
-    "artworkUrl": "https://archive.org/download/movie_opening/mom7.webp",
+    "audioUrls": [
+      "https://archive.org/download/conan_movie_opening/7.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/mop/movie-op-7.webp",
+      "https://archive.org/download/movie_opening/mom7.webp"
+    ],
     "kind": "movieOpening"
   },
   {
@@ -75,8 +110,13 @@
     "title": "Magician of the Silver Sky",
     "artist": "Ohno Katsuo",
     "releasedOn": "2004-04-14",
-    "audioUrl": "https://archive.org/download/conan_movie_opening/8.mp3",
-    "artworkUrl": "https://archive.org/download/movie_opening/mom8.webp",
+    "audioUrls": [
+      "https://archive.org/download/conan_movie_opening/8.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/mop/movie-op-8.webp",
+      "https://archive.org/download/movie_opening/mom8.webp"
+    ],
     "kind": "movieOpening"
   },
   {
@@ -85,8 +125,13 @@
     "title": "Strategy Above the Depths",
     "artist": "Ohno Katsuo",
     "releasedOn": "2005-04-06",
-    "audioUrl": "https://archive.org/download/conan_movie_opening/9.mp3",
-    "artworkUrl": "https://archive.org/download/movie_opening/mom9.webp",
+    "audioUrls": [
+      "https://archive.org/download/conan_movie_opening/9.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/mop/movie-op-9.webp",
+      "https://archive.org/download/movie_opening/mom9.webp"
+    ],
     "kind": "movieOpening"
   },
   {
@@ -95,8 +140,13 @@
     "title": "The Private Eyes' Requiem",
     "artist": "Ohno Katsuo",
     "releasedOn": "2006-04-12",
-    "audioUrl": "https://archive.org/download/conan_movie_opening/10.mp3",
-    "artworkUrl": "https://archive.org/download/movie_opening/mom10.webp",
+    "audioUrls": [
+      "https://archive.org/download/conan_movie_opening/10.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/mop/movie-op-10.webp",
+      "https://archive.org/download/movie_opening/mom10.webp"
+    ],
     "kind": "movieOpening"
   },
   {
@@ -105,8 +155,13 @@
     "title": "Jolly Roger in the Deep Azure",
     "artist": "Ohno Katsuo",
     "releasedOn": "2007-04-18",
-    "audioUrl": "https://archive.org/download/conan_movie_opening/11.mp3",
-    "artworkUrl": "https://archive.org/download/movie_opening/mom11.webp",
+    "audioUrls": [
+      "https://archive.org/download/conan_movie_opening/11.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/mop/movie-op-11.webp",
+      "https://archive.org/download/movie_opening/mom11.webp"
+    ],
     "kind": "movieOpening"
   },
   {
@@ -115,8 +170,13 @@
     "title": "Full Score of Fear",
     "artist": "Ohno Katsuo",
     "releasedOn": "2008-04-16",
-    "audioUrl": "https://archive.org/download/conan_movie_opening/12.mp3",
-    "artworkUrl": "https://archive.org/download/movie_opening/mom12.webp",
+    "audioUrls": [
+      "https://archive.org/download/conan_movie_opening/12.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/mop/movie-op-12.webp",
+      "https://archive.org/download/movie_opening/mom12.webp"
+    ],
     "kind": "movieOpening"
   },
   {
@@ -125,8 +185,13 @@
     "title": "The Raven Chaser",
     "artist": "Ohno Katsuo",
     "releasedOn": "2009-04-15",
-    "audioUrl": "https://archive.org/download/conan_movie_opening/13.mp3",
-    "artworkUrl": "https://archive.org/download/movie_opening/mom13.webp",
+    "audioUrls": [
+      "https://archive.org/download/conan_movie_opening/13.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/mop/movie-op-13.webp",
+      "https://archive.org/download/movie_opening/mom13.webp"
+    ],
     "kind": "movieOpening"
   },
   {
@@ -135,8 +200,13 @@
     "title": "The Lost Ship in the Sky",
     "artist": "Ohno Katsuo",
     "releasedOn": "2010-04-14",
-    "audioUrl": "https://archive.org/download/conan_movie_opening/14.mp3",
-    "artworkUrl": "https://archive.org/download/movie_opening/mom14.webp",
+    "audioUrls": [
+      "https://archive.org/download/conan_movie_opening/14.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/mop/movie-op-14.webp",
+      "https://archive.org/download/movie_opening/mom14.webp"
+    ],
     "kind": "movieOpening"
   },
   {
@@ -145,8 +215,13 @@
     "title": "Quarter of Silence",
     "artist": "Ohno Katsuo",
     "releasedOn": "2011-04-13",
-    "audioUrl": "https://archive.org/download/conan_movie_opening/15.mp3",
-    "artworkUrl": "https://archive.org/download/movie_opening/mom15.webp",
+    "audioUrls": [
+      "https://archive.org/download/conan_movie_opening/15.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/mop/movie-op-15.webp",
+      "https://archive.org/download/movie_opening/mom15.webp"
+    ],
     "kind": "movieOpening"
   },
   {
@@ -155,8 +230,13 @@
     "title": "The Eleventh Striker",
     "artist": "Ohno Katsuo",
     "releasedOn": "2012-04-11",
-    "audioUrl": "https://archive.org/download/conan_movie_opening/16.mp3",
-    "artworkUrl": "https://archive.org/download/movie_opening/mom16.webp",
+    "audioUrls": [
+      "https://archive.org/download/conan_movie_opening/16.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/mop/movie-op-16.webp",
+      "https://archive.org/download/movie_opening/mom16.webp"
+    ],
     "kind": "movieOpening"
   },
   {
@@ -165,8 +245,13 @@
     "title": "Private Eye in the Distant Sea",
     "artist": "Ohno Katsuo",
     "releasedOn": "2013-04-17",
-    "audioUrl": "https://archive.org/download/conan_movie_opening/17.mp3",
-    "artworkUrl": "https://archive.org/download/movie_opening/mom17.webp",
+    "audioUrls": [
+      "https://archive.org/download/conan_movie_opening/17.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/mop/movie-op-17.webp",
+      "https://archive.org/download/movie_opening/mom17.webp"
+    ],
     "kind": "movieOpening"
   },
   {
@@ -175,8 +260,13 @@
     "title": "Dimensional Sniper",
     "artist": "Ohno Katsuo",
     "releasedOn": "2014-04-16",
-    "audioUrl": "https://archive.org/download/conan_movie_opening/18.mp3",
-    "artworkUrl": "https://archive.org/download/movie_opening/mom18.webp",
+    "audioUrls": [
+      "https://archive.org/download/conan_movie_opening/18.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/mop/movie-op-18.webp",
+      "https://archive.org/download/movie_opening/mom18.webp"
+    ],
     "kind": "movieOpening"
   },
   {
@@ -185,8 +275,13 @@
     "title": "Sunflowers of Inferno",
     "artist": "Ohno Katsuo",
     "releasedOn": "2015-04-15",
-    "audioUrl": "https://archive.org/download/conan_movie_opening/19.mp3",
-    "artworkUrl": "https://archive.org/download/movie_opening/mom19.webp",
+    "audioUrls": [
+      "https://archive.org/download/conan_movie_opening/19.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/mop/movie-op-19.webp",
+      "https://archive.org/download/movie_opening/mom19.webp"
+    ],
     "kind": "movieOpening"
   },
   {
@@ -195,8 +290,13 @@
     "title": "The Darkest Nightmare",
     "artist": "Ohno Katsuo",
     "releasedOn": "2016-04-13",
-    "audioUrl": "https://archive.org/download/conan_movie_opening/20.mp3",
-    "artworkUrl": "https://archive.org/download/movie_opening/mom20.webp",
+    "audioUrls": [
+      "https://archive.org/download/conan_movie_opening/20.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/mop/movie-op-20.webp",
+      "https://archive.org/download/movie_opening/mom20.webp"
+    ],
     "kind": "movieOpening"
   },
   {
@@ -205,8 +305,13 @@
     "title": "The Crimson Love Letter",
     "artist": "Ohno Katsuo",
     "releasedOn": "2017-04-12",
-    "audioUrl": "https://archive.org/download/conan_movie_opening/21.mp3",
-    "artworkUrl": "https://archive.org/download/movie_opening/mom21.webp",
+    "audioUrls": [
+      "https://archive.org/download/conan_movie_opening/21.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/mop/movie-op-21.webp",
+      "https://archive.org/download/movie_opening/mom21.webp"
+    ],
     "kind": "movieOpening"
   },
   {
@@ -215,8 +320,13 @@
     "title": "Zero the Enforcer",
     "artist": "Ohno Katsuo",
     "releasedOn": "2018-04-11",
-    "audioUrl": "https://archive.org/download/conan_movie_opening/22.mp3",
-    "artworkUrl": "https://archive.org/download/movie_opening/mom22.webp",
+    "audioUrls": [
+      "https://archive.org/download/conan_movie_opening/22.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/mop/movie-op-22.webp",
+      "https://archive.org/download/movie_opening/mom22.webp"
+    ],
     "kind": "movieOpening"
   },
   {
@@ -225,8 +335,13 @@
     "title": "The Fist of Blue Sapphire",
     "artist": "Ohno Katsuo",
     "releasedOn": "2019-04-10",
-    "audioUrl": "https://archive.org/download/conan_movie_opening/23.mp3",
-    "artworkUrl": "https://archive.org/download/movie_opening/mom23.webp",
+    "audioUrls": [
+      "https://archive.org/download/conan_movie_opening/23.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/mop/movie-op-23.webp",
+      "https://archive.org/download/movie_opening/mom23.webp"
+    ],
     "kind": "movieOpening"
   },
   {
@@ -235,8 +350,13 @@
     "title": "The Scarlet Bullet",
     "artist": "Ohno Katsuo",
     "releasedOn": "2021-04-14",
-    "audioUrl": "https://archive.org/download/conan_movie_opening/24.mp3",
-    "artworkUrl": "https://archive.org/download/movie_opening/mom24.webp",
+    "audioUrls": [
+      "https://archive.org/download/conan_movie_opening/24.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/mop/movie-op-24.webp",
+      "https://archive.org/download/movie_opening/mom24.webp"
+    ],
     "kind": "movieOpening"
   },
   {
@@ -245,8 +365,13 @@
     "title": "The Bride of Halloween",
     "artist": "Ohno Katsuo",
     "releasedOn": "2022-04-13",
-    "audioUrl": "https://archive.org/download/conan_movie_opening/25.mp3",
-    "artworkUrl": "https://archive.org/download/movie_opening/mom25.webp",
+    "audioUrls": [
+      "https://archive.org/download/conan_movie_opening/25.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/mop/movie-op-25.webp",
+      "https://archive.org/download/movie_opening/mom25.webp"
+    ],
     "kind": "movieOpening"
   },
   {
@@ -255,8 +380,13 @@
     "title": "Black Iron Submarine",
     "artist": "Ohno Katsuo",
     "releasedOn": "2023-04-12",
-    "audioUrl": "https://archive.org/download/conan_movie_opening/26.mp3",
-    "artworkUrl": "https://archive.org/download/movie_opening/mom26.webp",
+    "audioUrls": [
+      "https://archive.org/download/conan_movie_opening/26.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/mop/movie-op-26.webp",
+      "https://archive.org/download/movie_opening/mom26.webp"
+    ],
     "kind": "movieOpening"
   },
   {
@@ -265,8 +395,13 @@
     "title": "The Million-dollar Pentagram",
     "artist": "Ohno Katsuo",
     "releasedOn": "2024-04-10",
-    "audioUrl": "https://archive.org/download/conan_movie_opening/27.mp3",
-    "artworkUrl": "https://archive.org/download/movie_opening/mom27.webp",
+    "audioUrls": [
+      "https://archive.org/download/conan_movie_opening/27.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/mop/movie-op-27.webp",
+      "https://archive.org/download/movie_opening/mom27.webp"
+    ],
     "kind": "movieOpening"
   },
   {
@@ -275,8 +410,13 @@
     "title": "One-eyed Flashback",
     "artist": "Ohno Katsuo",
     "releasedOn": "2025-04-16",
-    "audioUrl": "https://archive.org/download/conan_movie_opening/28.mp3",
-    "artworkUrl": "https://archive.org/download/movie_opening/mom28.webp",
+    "audioUrls": [
+      "https://archive.org/download/conan_movie_opening/28.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/mop/movie-op-28.webp",
+      "https://archive.org/download/movie_opening/mom28.webp"
+    ],
     "kind": "movieOpening"
   },
   {
@@ -285,8 +425,13 @@
     "title": "Fallen Angel of the Highway",
     "artist": "Ohno Katsuo",
     "releasedOn": "2026-04-08",
-    "audioUrl": "https://archive.org/download/conan_movie_opening/29.mp3",
-    "artworkUrl": "https://archive.org/download/movie_opening/mom29.webp",
+    "audioUrls": [
+      "https://archive.org/download/conan_movie_opening/29.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/mop/movie-op-29.webp",
+      "https://archive.org/download/movie_opening/mom29.webp"
+    ],
     "kind": "movieOpening"
   }
 ]

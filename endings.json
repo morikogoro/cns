@@ -6,8 +6,14 @@
     "title": "Step by Step",
     "artist": "ZIGGY",
     "releasedOn": "1996-03-04",
-    "audioUrl": "https://archive.org/download/ending_201802/01%20-%20Step%20by%20Step%20-%20ZIGGY.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed1.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/ed/ed-1.mp3",
+      "https://archive.org/download/ending_201802/01%20-%20Step%20by%20Step%20-%20ZIGGY.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-1.jpg",
+      "https://archive.org/download/ending_20180221/ed1.jpg"
+    ]
   },
   {
     "id": "ed-2",
@@ -16,8 +22,14 @@
     "title": "Meikyuu no LOVERS",
     "artist": "Heath",
     "releasedOn": "1996-10-07",
-    "audioUrl": "https://archive.org/download/ending_201802/02%20-%20Meikyuu%20no%20LOVERS%20-%20Heath.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed2.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/ed/ed-2.mp3",
+      "https://archive.org/download/ending_201802/02%20-%20Meikyuu%20no%20LOVERS%20-%20Heath.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-2.jpg",
+      "https://archive.org/download/ending_20180221/ed2.jpg"
+    ]
   },
   {
     "id": "ed-3",
@@ -26,8 +38,14 @@
     "title": "Hikari to Kage no ROMAN",
     "artist": "Utoku Keiko",
     "releasedOn": "1997-05-14",
-    "audioUrl": "https://archive.org/download/ending_201802/03%20-%20Hikari%20to%20Kage%20no%20ROMAN%20-%20Keiko%20Utoku.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed3.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/ed/ed-3.mp3",
+      "https://archive.org/download/ending_201802/03%20-%20Hikari%20to%20Kage%20no%20ROMAN%20-%20Keiko%20Utoku.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-3.jpg",
+      "https://archive.org/download/ending_20180221/ed3.jpg"
+    ]
   },
   {
     "id": "ed-4",
@@ -36,8 +54,14 @@
     "title": "Kimi ga inai Natsu",
     "artist": "DEEN",
     "releasedOn": "1997-08-27",
-    "audioUrl": "https://archive.org/download/ending_201802/04%20-%20Kimi%20ga%20inai%20Natsu%20-%20DEEN.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed4.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/ed/ed-4.mp3",
+      "https://archive.org/download/ending_201802/04%20-%20Kimi%20ga%20inai%20Natsu%20-%20DEEN.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-4.jpg",
+      "https://archive.org/download/ending_20180221/ed4.jpg"
+    ]
   },
   {
     "id": "ed-5",
@@ -46,8 +70,14 @@
     "title": "Negai Goto Hitotsudake",
     "artist": "Komatsu Miho",
     "releasedOn": "1998-01-14",
-    "audioUrl": "https://archive.org/download/ending_201802/05%20-%20Negai%20Goto%20Hitotsudake%20-%20Komatsu%20Miho.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed5.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/ed/ed-5.mp3",
+      "https://archive.org/download/ending_201802/05%20-%20Negai%20Goto%20Hitotsudake%20-%20Komatsu%20Miho.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-5.jpg",
+      "https://archive.org/download/ending_20180221/ed5.jpg"
+    ]
   },
   {
     "id": "ed-6",
@@ -56,8 +86,14 @@
     "title": "Koori no Ue ni Tatsu you ni",
     "artist": "Komatsu Miho",
     "releasedOn": "1998-10-14",
-    "audioUrl": "https://archive.org/download/ending_201802/06%20-%20Koori%20no%20Ue%20ni%20Tatsu%20you%20ni%20-%20Komatsu%20Miho.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed6.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/ed/ed-6.mp3",
+      "https://archive.org/download/ending_201802/06%20-%20Koori%20no%20Ue%20ni%20Tatsu%20you%20ni%20-%20Komatsu%20Miho.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-6.jpg",
+      "https://archive.org/download/ending_20180221/ed6.jpg"
+    ]
   },
   {
     "id": "ed-7",
@@ -66,8 +102,14 @@
     "title": "Still for your love",
     "artist": "Rumania Montevideo",
     "releasedOn": "1999-04-14",
-    "audioUrl": "https://archive.org/download/ending_201802/07%20-%20Still%20for%20your%20love%20-%20Rumania%20Montevideo.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed7.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/ed/ed-7.mp3",
+      "https://archive.org/download/ending_201802/07%20-%20Still%20for%20your%20love%20-%20Rumania%20Montevideo.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-7.jpg",
+      "https://archive.org/download/ending_20180221/ed7.jpg"
+    ]
   },
   {
     "id": "ed-8",
@@ -76,8 +118,14 @@
     "title": "Free Magic",
     "artist": "WAG",
     "releasedOn": "1999-10-14",
-    "audioUrl": "https://archive.org/download/ending_201802/08%20-%20Free%20Magic%20-%20WAG.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed8.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/ed/ed-8.mp3",
+      "https://archive.org/download/ending_201802/08%20-%20Free%20Magic%20-%20WAG.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-8.jpg",
+      "https://archive.org/download/ending_20180221/ed8.jpg"
+    ]
   },
   {
     "id": "ed-9",
@@ -86,8 +134,14 @@
     "title": "Secret of My Heart",
     "artist": "Kuraki Mai",
     "releasedOn": "2000-04-26",
-    "audioUrl": "https://archive.org/download/ending_201802/09%20-%20Secret%20of%20My%20Heart%20-%20Kuraki%20Mai.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed9.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/ed/ed-9.mp3",
+      "https://archive.org/download/ending_201802/09%20-%20Secret%20of%20My%20Heart%20-%20Kuraki%20Mai.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-9.jpg",
+      "https://archive.org/download/ending_20180221/ed9.jpg"
+    ]
   },
   {
     "id": "ed-10",
@@ -96,8 +150,14 @@
     "title": "Natsu no Maboroshi",
     "artist": "GARNET CROW",
     "releasedOn": "2000-10-25",
-    "audioUrl": "https://archive.org/download/ending_201802/10%20-%20Natsu%20no%20Maboroshi%20-%20GARNET%20CROW.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed10.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/ed/ed-10.mp3",
+      "https://archive.org/download/ending_201802/10%20-%20Natsu%20no%20Maboroshi%20-%20GARNET%20CROW.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-10.jpg",
+      "https://archive.org/download/ending_20180221/ed10.jpg"
+    ]
   },
   {
     "id": "ed-11",
@@ -106,8 +166,14 @@
     "title": "Start in my life",
     "artist": "Kuraki Mai",
     "releasedOn": "2001-02-07",
-    "audioUrl": "https://archive.org/download/ending_201802/11%20-%20Start%20in%20my%20life%20-%20Kuraki%20Mai.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed11.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/ed/ed-11.mp3",
+      "https://archive.org/download/ending_201802/11%20-%20Start%20in%20my%20life%20-%20Kuraki%20Mai.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-11.jpg",
+      "https://archive.org/download/ending_20180221/ed11.jpg"
+    ]
   },
   {
     "id": "ed-12",
@@ -116,8 +182,14 @@
     "title": "Always",
     "artist": "Kuraki Mai",
     "releasedOn": "2001-06-06",
-    "audioUrl": "https://archive.org/download/ending_201802/12%20-%20Always%20-%20Kuraki%20Mai.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed12.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/ed/ed-12.mp3",
+      "https://archive.org/download/ending_201802/12%20-%20Always%20-%20Kuraki%20Mai.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-12.jpg",
+      "https://archive.org/download/ending_20180221/ed12.jpg"
+    ]
   },
   {
     "id": "ed-13",
@@ -126,8 +198,14 @@
     "title": "Aoi Aoi Kono Hoshi ni",
     "artist": "Uehara Azumi",
     "releasedOn": "2001-10-31",
-    "audioUrl": "https://archive.org/download/ending_201802/13%20-%20Aoi%20Aoi%20Kono%20Hoshi%20ni%20-%20Uehara%20Azumi.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed13.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/ed/ed-13.mp3",
+      "https://archive.org/download/ending_201802/13%20-%20Aoi%20Aoi%20Kono%20Hoshi%20ni%20-%20Uehara%20Azumi.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-13.jpg",
+      "https://archive.org/download/ending_20180221/ed13.jpg"
+    ]
   },
   {
     "id": "ed-14",
@@ -136,8 +214,14 @@
     "title": "Yume mita Ato de",
     "artist": "GARNET CROW",
     "releasedOn": "2002-03-13",
-    "audioUrl": "https://archive.org/download/ending_201802/14%20-%20Yume%20mita%20Ato%20de%20-%20GARNET%20CROW.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed14.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/ed/ed-14.mp3",
+      "https://archive.org/download/ending_201802/14%20-%20Yume%20mita%20Ato%20de%20-%20GARNET%20CROW.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-14.jpg",
+      "https://archive.org/download/ending_20180221/ed14.jpg"
+    ]
   },
   {
     "id": "ed-15",
@@ -146,8 +230,14 @@
     "title": "Mushoku",
     "artist": "Uehara Azumi",
     "releasedOn": "2002-09-11",
-    "audioUrl": "https://archive.org/download/ending_201802/15%20-%20Mushoku%20-%20Uehara%20Azumi.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed15.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/ed/ed-15.mp3",
+      "https://archive.org/download/ending_201802/15%20-%20Mushoku%20-%20Uehara%20Azumi.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-15.jpg",
+      "https://archive.org/download/ending_20180221/ed15.jpg"
+    ]
   },
   {
     "id": "ed-16",
@@ -156,8 +246,13 @@
     "title": "Overture",
     "artist": "Inaba Koshi",
     "releasedOn": "2002-10-09",
-    "audioUrl": "https://archive.org/download/ending_201802/16%20-%20Overture%20-%20Inaba%20Koshi.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed16.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/16%20-%20Overture%20-%20Inaba%20Koshi.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-16.jpg",
+      "https://archive.org/download/ending_20180221/ed16.jpg"
+    ]
   },
   {
     "id": "ed-17",
@@ -166,8 +261,13 @@
     "title": "Ashita wo Yume mite",
     "artist": "ZARD",
     "releasedOn": "2003-04-09",
-    "audioUrl": "https://archive.org/download/ending_201802/17%20-%20Ashita%20wo%20Yume%20mite%20-%20ZARD.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed17.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/17%20-%20Ashita%20wo%20Yume%20mite%20-%20ZARD.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-17.jpg",
+      "https://archive.org/download/ending_20180221/ed17.jpg"
+    ]
   },
   {
     "id": "ed-18",
@@ -176,8 +276,13 @@
     "title": "Kimi to iu Hikari",
     "artist": "GARNET CROW",
     "releasedOn": "2003-09-10",
-    "audioUrl": "https://archive.org/download/ending_201802/18%20-%20Kimi%20to%20iu%20Hikari%20-%20GARNET%20CROW.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed18.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/18%20-%20Kimi%20to%20iu%20Hikari%20-%20GARNET%20CROW.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-18.jpg",
+      "https://archive.org/download/ending_20180221/ed18.jpg"
+    ]
   },
   {
     "id": "ed-19",
@@ -186,8 +291,13 @@
     "title": "Nemuru Kimi no Yokogao ni Hohoemi wo",
     "artist": "Saegusa U-ka in db",
     "releasedOn": "2004-03-03",
-    "audioUrl": "https://archive.org/download/ending_201802/19%20-%20Nemuru%20Kimi%20no%20Yokogao%20ni%20Hohoemi%20wo%20-%20Saegusa%20U-ka%20in%20db.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed19.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/19%20-%20Nemuru%20Kimi%20no%20Yokogao%20ni%20Hohoemi%20wo%20-%20Saegusa%20U-ka%20in%20db.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-19.jpg",
+      "https://archive.org/download/ending_20180221/ed19.jpg"
+    ]
   },
   {
     "id": "ed-20",
@@ -196,8 +306,13 @@
     "title": "Wasurezaki",
     "artist": "GARNET CROW",
     "releasedOn": "2004-11-17",
-    "audioUrl": "https://archive.org/download/ending_201802/20%20-%20Wasurezaki%20-%20GARNET%20CROW.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed20.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/20%20-%20Wasurezaki%20-%20GARNET%20CROW.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-20.jpg",
+      "https://archive.org/download/ending_20180221/ed20.jpg"
+    ]
   },
   {
     "id": "ed-21",
@@ -206,8 +321,13 @@
     "title": "JUNE BRIDE ~ Anata Shika mienai ~",
     "artist": "Saegusa U-ka in db",
     "releasedOn": "2005-06-15",
-    "audioUrl": "https://archive.org/download/ending_201802/21%20-%20JUNE%20BRIDE%20~%20Anata%20Shika%20mienai%20~%20-%20Saegusa%20U-ka%20in%20db.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed21.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/21%20-%20JUNE%20BRIDE%20~%20Anata%20Shika%20mienai%20~%20-%20Saegusa%20U-ka%20in%20db.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-21.jpg",
+      "https://archive.org/download/ending_20180221/ed21.jpg"
+    ]
   },
   {
     "id": "ed-22",
@@ -216,8 +336,13 @@
     "title": "Sekai Tomete",
     "artist": "Takei Shiori",
     "releasedOn": "2005-08-10",
-    "audioUrl": "https://archive.org/download/ending_201802/22%20-%20Sekai%20Tomete%20-%20Takei%20Shiori.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed22.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/22%20-%20Sekai%20Tomete%20-%20Takei%20Shiori.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-22.jpg",
+      "https://archive.org/download/ending_20180221/ed22.jpg"
+    ]
   },
   {
     "id": "ed-23",
@@ -226,8 +351,13 @@
     "title": "Thank you for Everything",
     "artist": "Iwata Sayuri",
     "releasedOn": "2005-11-09",
-    "audioUrl": "https://archive.org/download/ending_201802/23%20-%20Thank%20you%20for%20Everything%20-%20Iwata%20Sayuri.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed23.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/23%20-%20Thank%20you%20for%20Everything%20-%20Iwata%20Sayuri.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-23.jpg",
+      "https://archive.org/download/ending_20180221/ed23.jpg"
+    ]
   },
   {
     "id": "ed-24",
@@ -236,8 +366,13 @@
     "title": "Kanashii Hodo Anata ga Suki",
     "artist": "ZARD",
     "releasedOn": "2006-03-08",
-    "audioUrl": "https://archive.org/download/ending_201802/24%20-%20Kanashii%20Hodo%20Anata%20ga%20Suki%20-%20ZARD.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed24.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/24%20-%20Kanashii%20Hodo%20Anata%20ga%20Suki%20-%20ZARD.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-24.jpg",
+      "https://archive.org/download/ending_20180221/ed24.jpg"
+    ]
   },
   {
     "id": "ed-25",
@@ -246,8 +381,13 @@
     "title": "Mou Kimi dake wo Hanashitari wa Shinai",
     "artist": "Kamiki Aya",
     "releasedOn": "2006-05-31",
-    "audioUrl": "https://archive.org/download/ending_201802/25%20-%20Mou%20Kimi%20dake%20wo%20Hanashitari%20wa%20Shinai%20-%20Kamiki%20Aya.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed25.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/25%20-%20Mou%20Kimi%20dake%20wo%20Hanashitari%20wa%20Shinai%20-%20Kamiki%20Aya.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-25.jpg",
+      "https://archive.org/download/ending_20180221/ed25.jpg"
+    ]
   },
   {
     "id": "ed-26",
@@ -256,8 +396,13 @@
     "title": "Shiroi Yuki",
     "artist": "Kuraki Mai",
     "releasedOn": "2006-12-20",
-    "audioUrl": "https://archive.org/download/ending_201802/26%20-%20Shiroi%20Yuki%20-%20Kuraki%20Mai.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed26.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/26%20-%20Shiroi%20Yuki%20-%20Kuraki%20Mai.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-26.jpg",
+      "https://archive.org/download/ending_20180221/ed26.jpg"
+    ]
   },
   {
     "id": "ed-27",
@@ -266,8 +411,13 @@
     "title": "I still believe ~Tameiki~",
     "artist": "Shizukusa Yumi",
     "releasedOn": "2007-05-30",
-    "audioUrl": "https://archive.org/download/ending_201802/27%20-%20I%20still%20believe%20~Tameiki~%20-%20Shizukusa%20Yumi.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed27.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/27%20-%20I%20still%20believe%20~Tameiki~%20-%20Shizukusa%20Yumi.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-27.jpg",
+      "https://archive.org/download/ending_20180221/ed27.jpg"
+    ]
   },
   {
     "id": "ed-28",
@@ -276,8 +426,13 @@
     "title": "Sekai wa mawaru to iu keredo",
     "artist": "GARNET CROW",
     "releasedOn": "2007-11-14",
-    "audioUrl": "https://archive.org/download/ending_201802/28%20-%20Sekai%20wa%20mawaru%20to%20iu%20keredo%20-%20GARNET%20CROW.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed28.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/28%20-%20Sekai%20wa%20mawaru%20to%20iu%20keredo%20-%20GARNET%20CROW.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-28.jpg",
+      "https://archive.org/download/ending_20180221/ed28.jpg"
+    ]
   },
   {
     "id": "ed-29",
@@ -286,8 +441,13 @@
     "title": "Yuki doke no Ano Kawa no Nagare no you ni",
     "artist": "Saegusa U-ka in db",
     "releasedOn": "2008-02-27",
-    "audioUrl": "https://archive.org/download/ending_201802/29%20-%20Yuki%20doke%20no%20Ano%20Kawa%20no%20Nagare%20no%20you%20ni%20-%20Saegusa%20U-ka%20in%20db.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed29.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/29%20-%20Yuki%20doke%20no%20Ano%20Kawa%20no%20Nagare%20no%20you%20ni%20-%20Saegusa%20U-ka%20in%20db.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-29.jpg",
+      "https://archive.org/download/ending_20180221/ed29.jpg"
+    ]
   },
   {
     "id": "ed-30",
@@ -296,8 +456,13 @@
     "title": "Summer Memories",
     "artist": "Kamiki Aya",
     "releasedOn": "2008-08-06",
-    "audioUrl": "https://archive.org/download/ending_201802/30%20-%20Summer%20Memories%20-%20Kamiki%20Aya.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed30.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/30%20-%20Summer%20Memories%20-%20Kamiki%20Aya.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-30.jpg",
+      "https://archive.org/download/ending_20180221/ed30.jpg"
+    ]
   },
   {
     "id": "ed-31",
@@ -306,8 +471,13 @@
     "title": "GO YOUR OWN WAY",
     "artist": "Shizukusa Yumi",
     "releasedOn": "2008-10-29",
-    "audioUrl": "https://archive.org/download/ending_201802/31%20-%20GO%20YOUR%20OWN%20WAY%20-%20Shizukusa%20Yumi.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed31.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/31%20-%20GO%20YOUR%20OWN%20WAY%20-%20Shizukusa%20Yumi.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-31.jpg",
+      "https://archive.org/download/ending_20180221/ed31.jpg"
+    ]
   },
   {
     "id": "ed-32",
@@ -316,8 +486,13 @@
     "title": "Koigokoro Kagayaki Nagara",
     "artist": "Naifu",
     "releasedOn": "2009-02-04",
-    "audioUrl": "https://archive.org/download/ending_201802/32%20-%20Koigokoro%20Kagayaki%20Nagara%20-%20Naifu.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed32.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/32%20-%20Koigokoro%20Kagayaki%20Nagara%20-%20Naifu.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-32.jpg",
+      "https://archive.org/download/ending_20180221/ed32.jpg"
+    ]
   },
   {
     "id": "ed-33",
@@ -326,8 +501,13 @@
     "title": "Doing all right",
     "artist": "GARNET CROW",
     "releasedOn": "2009-05-20",
-    "audioUrl": "https://archive.org/download/ending_201802/33%20-%20Doing%20all%20right%20-%20GARNET%20CROW.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed33.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/33%20-%20Doing%20all%20right%20-%20GARNET%20CROW.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-33.jpg",
+      "https://archive.org/download/ending_20180221/ed33.jpg"
+    ]
   },
   {
     "id": "ed-34",
@@ -336,8 +516,13 @@
     "title": "Hikari",
     "artist": "BREAKERZ",
     "releasedOn": "2009-07-15",
-    "audioUrl": "https://archive.org/download/ending_201802/34%20-%20Hikari%20-%20BREAKERZ.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed34.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/34%20-%20Hikari%20-%20BREAKERZ.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-34.jpg",
+      "https://archive.org/download/ending_20180221/ed34.jpg"
+    ]
   },
   {
     "id": "ed-35",
@@ -346,8 +531,13 @@
     "title": "Hello Mr. my yesterday",
     "artist": "Hundred Percent Free",
     "releasedOn": "2010-01-27",
-    "audioUrl": "https://archive.org/download/ending_201802/35%20-%20Hello%20Mr.%20my%20yesterday%20-%20Hundred%20Percent%20Free.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed35.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/35%20-%20Hello%20Mr.%20my%20yesterday%20-%20Hundred%20Percent%20Free.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-35.jpg",
+      "https://archive.org/download/ending_20180221/ed35.jpg"
+    ]
   },
   {
     "id": "ed-36",
@@ -356,8 +546,13 @@
     "title": "Tomorrow is the last Time",
     "artist": "Kuraki Mai",
     "releasedOn": "2010-11-17",
-    "audioUrl": "https://archive.org/download/ending_201802/36%20-%20Tomorrow%20is%20the%20last%20Time%20-%20Kuraki%20Mai.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed36.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/36%20-%20Tomorrow%20is%20the%20last%20Time%20-%20Kuraki%20Mai.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-36.jpg",
+      "https://archive.org/download/ending_20180221/ed36.jpg"
+    ]
   },
   {
     "id": "ed-37",
@@ -366,8 +561,13 @@
     "title": "Juugoya CRISIS ~Kimi ni Aitai~",
     "artist": "Hundred Percent Free",
     "releasedOn": "2011-01-26",
-    "audioUrl": "https://archive.org/download/ending_201802/37%20-%20Juugoya%20CRISIS%20~Kimi%20ni%20Aitai~%20-%20Hundred%20Percent%20Free.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed37.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/37%20-%20Juugoya%20CRISIS%20~Kimi%20ni%20Aitai~%20-%20Hundred%20Percent%20Free.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-37.jpg",
+      "https://archive.org/download/ending_20180221/ed37.jpg"
+    ]
   },
   {
     "id": "ed-38",
@@ -376,8 +576,13 @@
     "title": "Tsukiyo no Itazura no Mahou",
     "artist": "BREAKERZ",
     "releasedOn": "2011-04-27",
-    "audioUrl": "https://archive.org/download/ending_201802/38%20-%20Tsukiyo%20no%20Itazura%20no%20Mahou%20-%20BREAKERZ.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed38.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/38%20-%20Tsukiyo%20no%20Itazura%20no%20Mahou%20-%20BREAKERZ.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-38.jpg",
+      "https://archive.org/download/ending_20180221/ed38.jpg"
+    ]
   },
   {
     "id": "ed-39",
@@ -386,8 +591,13 @@
     "title": "PILGRIM",
     "artist": "B'z",
     "releasedOn": "2011-07-27",
-    "audioUrl": "https://archive.org/download/ending_201802/39%20-%20PILGRIM%20-%20B%27z.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed39.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/39%20-%20PILGRIM%20-%20B%27z.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-39.jpg",
+      "https://archive.org/download/ending_20180221/ed39.jpg"
+    ]
   },
   {
     "id": "ed-40",
@@ -396,8 +606,13 @@
     "title": "Your Best Friend",
     "artist": "Kuraki Mai",
     "releasedOn": "2011-10-19",
-    "audioUrl": "https://archive.org/download/ending_201802/40%20-%20Your%20Best%20Friend%20-%20Kuraki%20Mai.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed40.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/40%20-%20Your%20Best%20Friend%20-%20Kuraki%20Mai.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-40.jpg",
+      "https://archive.org/download/ending_20180221/ed40.jpg"
+    ]
   },
   {
     "id": "ed-41",
@@ -406,8 +621,13 @@
     "title": "Kanashii Hodo Kyou no Yuuhi Kirei Dane",
     "artist": "grram",
     "releasedOn": "2012-03-21",
-    "audioUrl": "https://archive.org/download/ending_201802/41%20-%20Kanashii%20Hodo%20Kyou%20no%20Yuuhi%20Kirei%20Dane%20-%20grram.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed41.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/41%20-%20Kanashii%20Hodo%20Kyou%20no%20Yuuhi%20Kirei%20Dane%20-%20grram.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-41.jpg",
+      "https://archive.org/download/ending_20180221/ed41.jpg"
+    ]
   },
   {
     "id": "ed-42",
@@ -416,8 +636,13 @@
     "title": "Overwriting",
     "artist": "BREAKERZ",
     "releasedOn": "2012-06-13",
-    "audioUrl": "https://archive.org/download/ending_201802/42%20-%20Overwriting%20-%20BREAKERZ.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed42.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/42%20-%20Overwriting%20-%20BREAKERZ.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-42.jpg",
+      "https://archive.org/download/ending_20180221/ed42.jpg"
+    ]
   },
   {
     "id": "ed-43",
@@ -426,8 +651,13 @@
     "title": "Koi ni Koishite",
     "artist": "Kuraki Mai",
     "releasedOn": "2012-08-15",
-    "audioUrl": "https://archive.org/download/ending_201802/43%20-%20Koi%20ni%20Koishite%20-%20Kuraki%20Mai.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed43.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/43%20-%20Koi%20ni%20Koishite%20-%20Kuraki%20Mai.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-43.jpg",
+      "https://archive.org/download/ending_20180221/ed43.jpg"
+    ]
   },
   {
     "id": "ed-44",
@@ -436,8 +666,13 @@
     "title": "Hitomi no melody",
     "artist": "BOYFRIEND",
     "releasedOn": "2013-03-27",
-    "audioUrl": "https://archive.org/download/ending_201802/44%20-%20Hitomi%20no%20melody%20-%20BOYFRIEND.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed44.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/44%20-%20Hitomi%20no%20melody%20-%20BOYFRIEND.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-44.jpg",
+      "https://archive.org/download/ending_20180221/ed44.jpg"
+    ]
   },
   {
     "id": "ed-45",
@@ -446,8 +681,13 @@
     "title": "Kimi no Egao ga Nani Yori mo Suki Datta",
     "artist": "Chicago Poodle",
     "releasedOn": "2013-08-28",
-    "audioUrl": "https://archive.org/download/ending_201802/45%20-%20Kimi%20no%20Egao%20ga%20Nani%20Yori%20mo%20Suki%20Datta%20-%20Chicago%20Poodle.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed45.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/45%20-%20Kimi%20no%20Egao%20ga%20Nani%20Yori%20mo%20Suki%20Datta%20-%20Chicago%20Poodle.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-45.jpg",
+      "https://archive.org/download/ending_20180221/ed45.jpg"
+    ]
   },
   {
     "id": "ed-46",
@@ -456,8 +696,13 @@
     "title": "Ima Aitakute",
     "artist": "DAIGO",
     "releasedOn": "2013-12-04",
-    "audioUrl": "https://archive.org/download/ending_201802/46%20-%20Ima%20Aitakute%20-%20DAIGO.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed46.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/46%20-%20Ima%20Aitakute%20-%20DAIGO.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-46.jpg",
+      "https://archive.org/download/ending_20180221/ed46.jpg"
+    ]
   },
   {
     "id": "ed-47",
@@ -466,8 +711,13 @@
     "title": "Rain Man",
     "artist": "AKIHIDE",
     "releasedOn": "2014-05-14",
-    "audioUrl": "https://archive.org/download/ending_201802/47%20-%20Rain%20Man-%20AKIHIDE.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed47.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/47%20-%20Rain%20Man-%20AKIHIDE.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-47.jpg",
+      "https://archive.org/download/ending_20180221/ed47.jpg"
+    ]
   },
   {
     "id": "ed-48",
@@ -476,8 +726,13 @@
     "title": "Muteki na Heart",
     "artist": "Kuraki Mai",
     "releasedOn": "2014-08-27",
-    "audioUrl": "https://archive.org/download/ending_201802/48%20-%20Muteki%20na%20Heart%20-%20Kuraki%20Mai.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed48.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/48%20-%20Muteki%20na%20Heart%20-%20Kuraki%20Mai.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-48.jpg",
+      "https://archive.org/download/ending_20180221/ed48.jpg"
+    ]
   },
   {
     "id": "ed-49",
@@ -486,8 +741,13 @@
     "title": "Lie to You",
     "artist": "VALSHE",
     "releasedOn": "2015-02-04",
-    "audioUrl": "https://archive.org/download/ending_201802/49%20-%20Lie%20to%20You%20-%20VALSHE.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed49.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/49%20-%20Lie%20to%20You%20-%20VALSHE.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-49.jpg",
+      "https://archive.org/download/ending_20180221/ed49.jpg"
+    ]
   },
   {
     "id": "ed-50",
@@ -496,8 +756,13 @@
     "title": "Unmei no ROULETTE Mawashite",
     "artist": "La PomPon",
     "releasedOn": "2016-03-23",
-    "audioUrl": "https://archive.org/download/ending_201802/50%20-%20Unmei%20no%20ROULETTE%20Mawashite%20-%20La%20PomPon.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed50.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/50%20-%20Unmei%20no%20ROULETTE%20Mawashite%20-%20La%20PomPon.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-50.jpg",
+      "https://archive.org/download/ending_20180221/ed50.jpg"
+    ]
   },
   {
     "id": "ed-51",
@@ -506,8 +771,13 @@
     "title": "Futari no Byōshin",
     "artist": "Takuto",
     "releasedOn": "2016-05-04",
-    "audioUrl": "https://archive.org/download/ending_201802/51%20-%20Futari%20no%20By%C5%8Dshin%20-%20Takuto.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed51.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/51%20-%20Futari%20no%20By%C5%8Dshin%20-%20Takuto.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-51.jpg",
+      "https://archive.org/download/ending_20180221/ed51.jpg"
+    ]
   },
   {
     "id": "ed-52",
@@ -516,8 +786,13 @@
     "title": "SAWAGE☆LIFE",
     "artist": "Kuraki Mai",
     "releasedOn": "2016-07-30",
-    "audioUrl": "https://archive.org/download/ending_201802/52%20-%20SAWAGE%E2%98%86LIFE%20-%20Kuraki%20Mai.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed52.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/52%20-%20SAWAGE%E2%98%86LIFE%20-%20Kuraki%20Mai.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-52.jpg",
+      "https://archive.org/download/ending_20180221/ed52.jpg"
+    ]
   },
   {
     "id": "ed-53",
@@ -526,8 +801,13 @@
     "title": "YESTERDAY LOVE",
     "artist": "Kuraki Mai",
     "releasedOn": "2017-01-11",
-    "audioUrl": "https://archive.org/download/ending_201802/53%20-%20YESTERDAY%20LOVE%20-%20Kuraki%20Mai.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed53.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/53%20-%20YESTERDAY%20LOVE%20-%20Kuraki%20Mai.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-53.jpg",
+      "https://archive.org/download/ending_20180221/ed53.jpg"
+    ]
   },
   {
     "id": "ed-54",
@@ -536,8 +816,13 @@
     "title": "Yume Monogatari",
     "artist": "BREAKERZ",
     "releasedOn": "2017-07-12",
-    "audioUrl": "https://archive.org/download/ending_201802/54%20-%20Yume%20Monogatari%20-%20BREAKERZ.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed54.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/54%20-%20Yume%20Monogatari%20-%20BREAKERZ.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-54.jpg",
+      "https://archive.org/download/ending_20180221/ed54.jpg"
+    ]
   },
   {
     "id": "ed-55",
@@ -546,8 +831,13 @@
     "title": "Togetsukyō ~Kimi Omou~",
     "artist": "Kuraki Mai",
     "releasedOn": "2017-04-12",
-    "audioUrl": "https://archive.org/download/ending_201802/55%20-%20Togetsukyo%CC%84%20~Kimi%20Omou~%20-%20Kuraki%20Mai.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed55.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/55%20-%20Togetsukyo%CC%84%20~Kimi%20Omou~%20-%20Kuraki%20Mai.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-55.jpg",
+      "https://archive.org/download/ending_20180221/ed55.jpg"
+    ]
   },
   {
     "id": "ed-56",
@@ -556,8 +846,13 @@
     "title": "Kamikaze Express",
     "artist": "Takuto × Miyakawa-kun",
     "releasedOn": "2018-02-14",
-    "audioUrl": "https://archive.org/download/ending_201802/56%20-%20Kamikaze%20Express%20-%20Takuto%20%C3%97%20Miyakawa-kun.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed56.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/56%20-%20Kamikaze%20Express%20-%20Takuto%20%C3%97%20Miyakawa-kun.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-56.jpg",
+      "https://archive.org/download/ending_20180221/ed56.jpg"
+    ]
   },
   {
     "id": "ed-57",
@@ -566,8 +861,13 @@
     "title": "Sadame",
     "artist": "First place",
     "releasedOn": "2018-08-29",
-    "audioUrl": "https://archive.org/download/ending_201802/57%20-%20Sadame%20-%20First%20place.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed57.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/57%20-%20Sadame%20-%20First%20place.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-57.jpg",
+      "https://archive.org/download/ending_20180221/ed57.jpg"
+    ]
   },
   {
     "id": "ed-58",
@@ -576,8 +876,13 @@
     "title": "Aozolighter",
     "artist": "Cellchrome",
     "releasedOn": "2018-12-26",
-    "audioUrl": "https://archive.org/download/ending_201802/58%20-%20Aozolighter%20-%20Cellchrome.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed58.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/58%20-%20Aozolighter%20-%20Cellchrome.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-58.jpg",
+      "https://archive.org/download/ending_20180221/ed58.jpg"
+    ]
   },
   {
     "id": "ed-59",
@@ -586,8 +891,13 @@
     "title": "Kimi to Koi no Mama de Owarenai Itsumo Yume no Mama ja Irarenai",
     "artist": "Kuraki Mai",
     "releasedOn": "2019-03-20",
-    "audioUrl": "https://archive.org/download/ending_201802/59%20-%20Kimi%20to%20Koi%20no%20Mama%20de%20Owarenai%20Itsumo%20Yume%20no%20Mama%20ja%20Irarenai%20-%20Kuraki%20Mai.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed59.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/59%20-%20Kimi%20to%20Koi%20no%20Mama%20de%20Owarenai%20Itsumo%20Yume%20no%20Mama%20ja%20Irarenai%20-%20Kuraki%20Mai.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-59.jpg",
+      "https://archive.org/download/ending_20180221/ed59.jpg"
+    ]
   },
   {
     "id": "ed-60",
@@ -596,8 +906,13 @@
     "title": "Sissy Sky",
     "artist": "Miyakawa Airi",
     "releasedOn": "2019-11-06",
-    "audioUrl": "https://archive.org/download/ending_201802/60%20-%20Sissy%20Sky%20-%20Airi%20Miyakawa.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed60.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/60%20-%20Sissy%20Sky%20-%20Airi%20Miyakawa.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-60.jpg",
+      "https://archive.org/download/ending_20180221/ed60.jpg"
+    ]
   },
   {
     "id": "ed-61",
@@ -606,8 +921,13 @@
     "title": "Sukoshi Zutsu Sukoshi Zutsu",
     "artist": "SARD UNDERGROUND",
     "releasedOn": "2020-02-10",
-    "audioUrl": "https://archive.org/download/ending_201802/61%20-%20Sukoshi%20Zutsu%20Sukoshi%20Zutsu%20-%20SARD%20UNDERGROUND.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed61.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/61%20-%20Sukoshi%20Zutsu%20Sukoshi%20Zutsu%20-%20SARD%20UNDERGROUND.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-61.jpg",
+      "https://archive.org/download/ending_20180221/ed61.jpg"
+    ]
   },
   {
     "id": "ed-62",
@@ -616,8 +936,13 @@
     "title": "Hoshiai",
     "artist": "all at once",
     "releasedOn": "2020-08-02",
-    "audioUrl": "https://archive.org/download/ending_201802/62%20-%20Hoshiai%20-%20all%20at%20once.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed62.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/62%20-%20Hoshiai%20-%20all%20at%20once.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-62.jpg",
+      "https://archive.org/download/ending_20180221/ed62.jpg"
+    ]
   },
   {
     "id": "ed-63",
@@ -626,8 +951,13 @@
     "title": "Reboot",
     "artist": "Miyakawa Airi",
     "releasedOn": "2021-01-09",
-    "audioUrl": "https://archive.org/download/ending_201802/63%20-%20Reboot%20-%20Airi%20Miyakawa.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed63.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/63%20-%20Reboot%20-%20Airi%20Miyakawa.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-63.jpg",
+      "https://archive.org/download/ending_20180221/ed63.jpg"
+    ]
   },
   {
     "id": "ed-64",
@@ -636,8 +966,13 @@
     "title": "Veronica",
     "artist": "Kuraki Mai",
     "releasedOn": "2021-10-27",
-    "audioUrl": "https://archive.org/download/ending_201802/64%20-%20Veronica%20-%20Kuraki%20Mai.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed64.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/64%20-%20Veronica%20-%20Kuraki%20Mai.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-64.jpg",
+      "https://archive.org/download/ending_20180221/ed64.jpg"
+    ]
   },
   {
     "id": "ed-65",
@@ -646,8 +981,13 @@
     "title": "SWEET MOONLIGHT",
     "artist": "BREAKERZ",
     "releasedOn": "2022-01-26",
-    "audioUrl": "https://archive.org/download/ending_201802/65%20-%20SWEET%20MOONLIGHT%20-%20BREAKERZ.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed65.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/65%20-%20SWEET%20MOONLIGHT%20-%20BREAKERZ.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-65.jpg",
+      "https://archive.org/download/ending_20180221/ed65.jpg"
+    ]
   },
   {
     "id": "ed-66",
@@ -656,8 +996,13 @@
     "title": "Karappo no Kokoro",
     "artist": "SARD UNDERGROUND",
     "releasedOn": "2022-05-18",
-    "audioUrl": "https://archive.org/download/ending_201802/66%20-%20Karappo%20no%20Kokoro%20-%20SARD%20UNDERGROUND.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed66.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/66%20-%20Karappo%20no%20Kokoro%20-%20SARD%20UNDERGROUND.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-66.jpg",
+      "https://archive.org/download/ending_20180221/ed66.jpg"
+    ]
   },
   {
     "id": "ed-67",
@@ -666,8 +1011,13 @@
     "title": "Playmaker",
     "artist": "all at once feat. Ohno Yudai (from Da-iCE)",
     "releasedOn": "2022-10-01",
-    "audioUrl": "https://archive.org/download/ending_201802/67%20-%20Playmaker%20-%20all%20at%20once%20feat.%20Yudai%20Ohno%20%28from%20Da-iCE%29.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed67.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/67%20-%20Playmaker%20-%20all%20at%20once%20feat.%20Yudai%20Ohno%20%28from%20Da-iCE%29.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-67.jpg",
+      "https://archive.org/download/ending_20180221/ed67.jpg"
+    ]
   },
   {
     "id": "ed-68",
@@ -676,8 +1026,13 @@
     "title": "Kuufuku",
     "artist": "Konya, Anomachikara (starring VALSHE)",
     "releasedOn": "2023-02-18",
-    "audioUrl": "https://archive.org/download/ending_201802/68%20-%20Kuufuku%20-%20Konya%2C%20Anomachikara%20%28starring%20VALSHE%29.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed68.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/68%20-%20Kuufuku%20-%20Konya%2C%20Anomachikara%20%28starring%20VALSHE%29.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-68.jpg",
+      "https://archive.org/download/ending_20180221/ed68.jpg"
+    ]
   },
   {
     "id": "ed-69",
@@ -686,8 +1041,13 @@
     "title": "…and Rescue Me",
     "artist": "Rainy。",
     "releasedOn": "2023-06-24",
-    "audioUrl": "https://archive.org/download/ending_201802/69%20-%20%E2%80%A6and%20Rescue%20Me%20-%20Rainy%E3%80%82.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed69.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/69%20-%20%E2%80%A6and%20Rescue%20Me%20-%20Rainy%E3%80%82.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-69.jpg",
+      "https://archive.org/download/ending_20180221/ed69.jpg"
+    ]
   },
   {
     "id": "ed-70",
@@ -696,8 +1056,13 @@
     "title": "You & I",
     "artist": "Kuraki Mai",
     "releasedOn": "2023-12-22",
-    "audioUrl": "https://archive.org/download/ending_201802/70%20-%20You%20%26%20I%20-%20Kuraki%20Mai.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed70.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/70%20-%20You%20%26%20I%20-%20Kuraki%20Mai.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-70.jpg",
+      "https://archive.org/download/ending_20180221/ed70.jpg"
+    ]
   },
   {
     "id": "ed-71",
@@ -706,8 +1071,13 @@
     "title": "Yume de Aimashō",
     "artist": "SARD UNDERGROUND",
     "releasedOn": "2024-08-21",
-    "audioUrl": "https://archive.org/download/ending_201802/71%20-%20Yume%20de%20Aimasho%CC%84%20-%20SARD%20UNDERGROUND.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed71.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/71%20-%20Yume%20de%20Aimasho%CC%84%20-%20SARD%20UNDERGROUND.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-71.jpg",
+      "https://archive.org/download/ending_20180221/ed71.jpg"
+    ]
   },
   {
     "id": "ed-72",
@@ -716,8 +1086,13 @@
     "title": "Shooting star",
     "artist": "WANDS",
     "releasedOn": "2025-01-04",
-    "audioUrl": "https://archive.org/download/ending_201802/72%20-%20Shooting%20star%20-%20WANDS.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed72.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/72%20-%20Shooting%20star%20-%20WANDS.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-72.jpg",
+      "https://archive.org/download/ending_20180221/ed72.jpg"
+    ]
   },
   {
     "id": "ed-73",
@@ -726,8 +1101,13 @@
     "title": "Fun! Fun! Fun!",
     "artist": "Niihama Leon",
     "releasedOn": "2025-04-16",
-    "audioUrl": "https://archive.org/download/ending_201802/73%20-%20Fun%21%20Fun%21%20Fun%21%20-%20Leon%20Niihama.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed73.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/73%20-%20Fun%21%20Fun%21%20Fun%21%20-%20Leon%20Niihama.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-73.jpg",
+      "https://archive.org/download/ending_20180221/ed73.jpg"
+    ]
   },
   {
     "id": "ed-74",
@@ -736,8 +1116,13 @@
     "title": "TOWA ~Towa ni Kaze ni Noru~",
     "artist": "Kuraki Mai",
     "releasedOn": "2026-04-17",
-    "audioUrl": "https://archive.org/download/ending_201802/74%20-%20TOWA%20~Towa%20ni%20Kaze%20ni%20Noru~%20-%20Kuraki%20Mai.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed74.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/74%20-%20TOWA%20~Towa%20ni%20Kaze%20ni%20Noru~%20-%20Kuraki%20Mai.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-74.jpg",
+      "https://archive.org/download/ending_20180221/ed74.jpg"
+    ]
   },
   {
     "id": "ed-75",
@@ -746,8 +1131,13 @@
     "title": "7 DAYS",
     "artist": "Rainy。",
     "releasedOn": "2026-06-06",
-    "audioUrl": "https://archive.org/download/ending_201802/75%20-%207%20DAYS%20-%20Rainy%E3%80%82.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed75.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/75%20-%207%20DAYS%20-%20Rainy%E3%80%82.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-75.jpg",
+      "https://archive.org/download/ending_20180221/ed75.jpg"
+    ]
   },
   {
     "id": "ed-76",
@@ -756,7 +1146,12 @@
     "title": "Ai de Zenbu Dakishimete Aishite",
     "artist": "Kuraki Mai",
     "releasedOn": "2026-10-10",
-    "audioUrl": "https://archive.org/download/ending_201802/76%20-%20Ai%20de%20Zenbu%20Dakishimete%20Aishite%20-%20Kuraki%20Mai.mp3",
-    "artworkUrl": "https://archive.org/download/ending_20180221/ed76.jpg"
+    "audioUrls": [
+      "https://archive.org/download/ending_201802/76%20-%20Ai%20de%20Zenbu%20Dakishimete%20Aishite%20-%20Kuraki%20Mai.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/ed/ed-76.jpg",
+      "https://archive.org/download/ending_20180221/ed76.jpg"
+    ]
   }
 ]

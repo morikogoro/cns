@@ -1,7 +1,21 @@
 {
-    "version": 5,
-    "updatedAt": "2026-11-15",
+    "version": 7,
+    "updatedAt": "2026-11-21",
     "changelog": [
+      {
+        "version": 7,
+        "date": "2026-11-21",
+        "notes": [
+          "Tracks: audioUrls / artworkUrls lists replace audioUrl / artworkUrl; Cloudflare Pages mirror first, archive.org last"
+        ]
+      },
+      {
+        "version": 6,
+        "date": "2026-11-21",
+        "notes": [
+          "Samples: remote sample list (samples.json)"
+        ]
+      },
       {
         "version": 5,
         "date": "2026-11-15",
@@ -33,6 +47,7 @@
       }
     ],
     "suggestedPlaylists": "suggested-playlists.json",
+    "samples": "samples.json",
     "groups": [
       {
         "id": "openings",
@@ -68,6 +83,7 @@
       "endings.json": "https://raw.githubusercontent.com/morikogoro/cns/main/endings.json",
       "movie_openings.json": "https://raw.githubusercontent.com/morikogoro/cns/main/movie_openings.json",
       "movie_endings.json": "https://raw.githubusercontent.com/morikogoro/cns/main/movie_endings.json",
-      "suggested-playlists.json": "https://raw.githubusercontent.com/morikogoro/cns/main/suggested-playlists.json"
+      "suggested-playlists.json": "https://raw.githubusercontent.com/morikogoro/cns/main/suggested-playlists.json",
+      "samples.json": "https://raw.githubusercontent.com/morikogoro/cns/main/samples.json"
     }
   }

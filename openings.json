@@ -5,8 +5,14 @@
     "title": "Mune ga doki doki",
     "artist": "The High-Lows",
     "releasedOn": "1996-02-21",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2001%20-%20Mune%20ga%20doki%20doki%20-%20The%20High-Lows.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op1.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-1.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2001%20-%20Mune%20ga%20doki%20doki%20-%20The%20High-Lows.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-1.jpg",
+      "https://archive.org/download/opcover/op1.jpg"
+    ]
   },
   {
     "id": "op-2",
@@ -14,8 +20,14 @@
     "title": "Feel Your Heart",
     "artist": "Velvet Garden",
     "releasedOn": "1996-10-28",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2002%20-%20Feel%20Your%20Heart%20-%20Velvet%20Garden.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op2.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-2.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2002%20-%20Feel%20Your%20Heart%20-%20Velvet%20Garden.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-2.jpg",
+      "https://archive.org/download/opcover/op2.jpg"
+    ]
   },
   {
     "id": "op-3",
@@ -23,8 +35,14 @@
     "title": "Nazo",
     "artist": "Komatsu Miho",
     "releasedOn": "1997-05-28",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2003%20-%20Nazo%20-%20Komatsu%20Miho.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op3.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-3.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2003%20-%20Nazo%20-%20Komatsu%20Miho.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-3.jpg",
+      "https://archive.org/download/opcover/op3.jpg"
+    ]
   },
   {
     "id": "op-4",
@@ -32,8 +50,14 @@
     "title": "Unmei no roulette mawashite",
     "artist": "ZARD",
     "releasedOn": "1998-09-17",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2004%20-%20Unmei%20no%20roulette%20mawashite%20-%20ZARD.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op4.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-4.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2004%20-%20Unmei%20no%20roulette%20mawashite%20-%20ZARD.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-4.jpg",
+      "https://archive.org/download/opcover/op4.jpg"
+    ]
   },
   {
     "id": "op-5",
@@ -41,8 +65,14 @@
     "title": "Truth ~A Great Detective of Love~",
     "artist": "TWO-MIX",
     "releasedOn": "1998-11-26",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2005%20-%20Truth%20~A%20Great%20Detective%20of%20Love~%20-%20TWO-MIX.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op5.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-5.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2005%20-%20Truth%20~A%20Great%20Detective%20of%20Love~%20-%20TWO-MIX.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-5.jpg",
+      "https://archive.org/download/opcover/op5.jpg"
+    ]
   },
   {
     "id": "op-6",
@@ -50,8 +80,14 @@
     "title": "Giri Giri Chop",
     "artist": "B'z",
     "releasedOn": "1999-06-09",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2006%20-%20Giri%20Giri%20Chop%20-%20B%27z.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op6.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-6.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2006%20-%20Giri%20Giri%20Chop%20-%20B%27z.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-6.jpg",
+      "https://archive.org/download/opcover/op6.jpg"
+    ]
   },
   {
     "id": "op-7",
@@ -59,8 +95,14 @@
     "title": "Mysterious Eyes",
     "artist": "GARNET CROW",
     "releasedOn": "2000-03-29",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2007%20-%20Mysterious%20Eyes%20-%20GARNET%20CROW.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op7.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-7.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2007%20-%20Mysterious%20Eyes%20-%20GARNET%20CROW.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-7.jpg",
+      "https://archive.org/download/opcover/op7.jpg"
+    ]
   },
   {
     "id": "op-8",
@@ -68,8 +110,14 @@
     "title": "Koi Wa, THRILL, SHOCK, SUSPENSE",
     "artist": "Aiuchi Rina",
     "releasedOn": "2000-10-25",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2008%20-%20Koi%20Wa%2C%20THRILL%2C%20SHOCK%2C%20SUSPENSE%20-%20Aiuchi%20Rina.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op8.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-8.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2008%20-%20Koi%20Wa%2C%20THRILL%2C%20SHOCK%2C%20SUSPENSE%20-%20Aiuchi%20Rina.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-8.jpg",
+      "https://archive.org/download/opcover/op8.jpg"
+    ]
   },
   {
     "id": "op-9",
@@ -77,8 +125,14 @@
     "title": "Destiny",
     "artist": "Matsuhashi Miki",
     "releasedOn": "2001-06-13",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2009%20-%20Destiny%20-%20Matsuhashi%20Miki.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op9.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-9.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2009%20-%20Destiny%20-%20Matsuhashi%20Miki.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-9.jpg",
+      "https://archive.org/download/opcover/op9.jpg"
+    ]
   },
   {
     "id": "op-10",
@@ -86,8 +140,14 @@
     "title": "Winter Bells",
     "artist": "Kuraki Mai",
     "releasedOn": "2002-01-17",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2010%20-%20Winter%20Bells%20-%20Kuraki%20Mai.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op10.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-10.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2010%20-%20Winter%20Bells%20-%20Kuraki%20Mai.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-10.jpg",
+      "https://archive.org/download/opcover/op10.jpg"
+    ]
   },
   {
     "id": "op-11",
@@ -95,8 +155,14 @@
     "title": "I Can't Stop My Love For You",
     "artist": "Aiuchi Rina",
     "releasedOn": "2002-04-10",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2011%20-%20I%20Can%27t%20Stop%20My%20Love%20For%20You%20-%20Aiuchi%20Rina.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op11.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-11.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2011%20-%20I%20Can%27t%20Stop%20My%20Love%20For%20You%20-%20Aiuchi%20Rina.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-11.jpg",
+      "https://archive.org/download/opcover/op11.jpg"
+    ]
   },
   {
     "id": "op-12",
@@ -104,8 +170,14 @@
     "title": "Kaze No Lalala",
     "artist": "Kuraki Mai",
     "releasedOn": "2003-05-28",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2012%20-%20Kaze%20No%20Lalala%20-%20Kuraki%20Mai.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op12.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-12.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2012%20-%20Kaze%20No%20Lalala%20-%20Kuraki%20Mai.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-12.jpg",
+      "https://archive.org/download/opcover/op12.jpg"
+    ]
   },
   {
     "id": "op-13",
@@ -113,8 +185,14 @@
     "title": "Kimi to Yakusoku Shita Yasashii Ano Basho Made",
     "artist": "Saegusa U-ka in db",
     "releasedOn": "2003-10-29",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2013%20-%20Kimi%20to%20Yakusoku%20Shita%20Yasashii%20Ano%20Basho%20Made%20-%20Saegusa%20U-ka%20in%20db.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op13.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-13.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2013%20-%20Kimi%20to%20Yakusoku%20Shita%20Yasashii%20Ano%20Basho%20Made%20-%20Saegusa%20U-ka%20in%20db.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-13.jpg",
+      "https://archive.org/download/opcover/op13.jpg"
+    ]
   },
   {
     "id": "op-14",
@@ -122,8 +200,14 @@
     "title": "START",
     "artist": "Aiuchi Rina",
     "releasedOn": "2004-05-26",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2014%20-%20START%20-%20Aiuchi%20Rina.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op14.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-14.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2014%20-%20START%20-%20Aiuchi%20Rina.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-14.jpg",
+      "https://archive.org/download/opcover/op14.jpg"
+    ]
   },
   {
     "id": "op-15",
@@ -131,8 +215,14 @@
     "title": "Hoshi no Kagayaki yo",
     "artist": "ZARD",
     "releasedOn": "2005-04-20",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2015%20-%20Hoshi%20no%20Kagayaki%20yo%20-%20ZARD.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op15.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-15.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2015%20-%20Hoshi%20no%20Kagayaki%20yo%20-%20ZARD.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-15.jpg",
+      "https://archive.org/download/opcover/op15.jpg"
+    ]
   },
   {
     "id": "op-16",
@@ -140,8 +230,14 @@
     "title": "Growing of my Heart",
     "artist": "Kuraki Mai",
     "releasedOn": "2005-11-09",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2016%20-%20Growing%20of%20my%20Heart%20-%20Kuraki%20Mai.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op16.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-16.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2016%20-%20Growing%20of%20my%20Heart%20-%20Kuraki%20Mai.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-16.jpg",
+      "https://archive.org/download/opcover/op16.jpg"
+    ]
   },
   {
     "id": "op-17",
@@ -149,8 +245,14 @@
     "title": "Shoudou",
     "artist": "B'z",
     "releasedOn": "2006-01-25",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2017%20-%20Shoudou%20-%20B%27z.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op17.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-17.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2017%20-%20Shoudou%20-%20B%27z.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-17.jpg",
+      "https://archive.org/download/opcover/op17.jpg"
+    ]
   },
   {
     "id": "op-18",
@@ -158,8 +260,14 @@
     "title": "100 Mono Tobira",
     "artist": "Aiuchi Rina & Saegusa U-ka",
     "releasedOn": "2006-06-14",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2018%20-%20100%20Mono%20Tobira%20-%20Aiuchi%20Rina%20%26%20Saegusa%20U-ka.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op18.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-18.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2018%20-%20100%20Mono%20Tobira%20-%20Aiuchi%20Rina%20%26%20Saegusa%20U-ka.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-18.jpg",
+      "https://archive.org/download/opcover/op18.jpg"
+    ]
   },
   {
     "id": "op-19",
@@ -167,8 +275,14 @@
     "title": "Kumo ni Notte",
     "artist": "Saegusa U-ka in db",
     "releasedOn": "2007-01-31",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2019%20-%20Kumo%20ni%20Notte%20-%20Saegusa%20U-ka%20in%20db.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op19.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-19.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2019%20-%20Kumo%20ni%20Notte%20-%20Saegusa%20U-ka%20in%20db.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-19.jpg",
+      "https://archive.org/download/opcover/op19.jpg"
+    ]
   },
   {
     "id": "op-20",
@@ -176,8 +290,14 @@
     "title": "Namida no YESTERDAY",
     "artist": "GARNET CROW",
     "releasedOn": "2007-07-04",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2020%20-%20Namida%20no%20YESTERDAY%20-%20GARNET%20CROW.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op20.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-20.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2020%20-%20Namida%20no%20YESTERDAY%20-%20GARNET%20CROW.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-20.jpg",
+      "https://archive.org/download/opcover/op20.jpg"
+    ]
   },
   {
     "id": "op-21",
@@ -185,8 +305,14 @@
     "title": "GLORIOUS MIND",
     "artist": "ZARD",
     "releasedOn": "2007-12-12",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2021%20-%20GLORIOUS%20MIND%20-%20ZARD.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op21.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-21.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2021%20-%20GLORIOUS%20MIND%20-%20ZARD.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-21.jpg",
+      "https://archive.org/download/opcover/op21.jpg"
+    ]
   },
   {
     "id": "op-22",
@@ -194,8 +320,14 @@
     "title": "Ai wa Kurayami no Naka de",
     "artist": "ZARD (feat.Kamiki Aya & Morishita Siyon)",
     "releasedOn": "2008-04-09",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2022%20-%20Ai%20wa%20Kurayami%20no%20Naka%20de%20-%20ZARD%20%28feat.Kamiki%20Aya%20%26%20Morishita%20Siyon%29.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op22.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-22.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2022%20-%20Ai%20wa%20Kurayami%20no%20Naka%20de%20-%20ZARD%20%28feat.Kamiki%20Aya%20%26%20Morishita%20Siyon%29.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-22.jpg",
+      "https://archive.org/download/opcover/op22.jpg"
+    ]
   },
   {
     "id": "op-23",
@@ -203,8 +335,14 @@
     "title": "Love for you",
     "artist": "Kuraki Mai",
     "releasedOn": "2008-07-09",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2023%20-%20Love%20for%20you%20-%20Kuraki%20Mai.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op23.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-23.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2023%20-%20Love%20for%20you%20-%20Kuraki%20Mai.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-23.jpg",
+      "https://archive.org/download/opcover/op23.jpg"
+    ]
   },
   {
     "id": "op-24",
@@ -212,8 +350,14 @@
     "title": "Mysterious",
     "artist": "Naifu",
     "releasedOn": "2008-11-19",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2024%20-%20Mysterious%20-%20Naifu.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op24.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-24.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2024%20-%20Mysterious%20-%20Naifu.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-24.jpg",
+      "https://archive.org/download/opcover/op24.jpg"
+    ]
   },
   {
     "id": "op-25",
@@ -221,8 +365,14 @@
     "title": "Revive",
     "artist": "Kuraki Mai",
     "releasedOn": "2009-04-01",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2025%20-%20Revive%20-%20Kuraki%20Mai.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op25.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-25.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2025%20-%20Revive%20-%20Kuraki%20Mai.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-25.jpg",
+      "https://archive.org/download/opcover/op25.jpg"
+    ]
   },
   {
     "id": "op-26",
@@ -230,8 +380,14 @@
     "title": "Everlasting Luv",
     "artist": "BREAKERZ",
     "releasedOn": "2009-04-08",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2026%20-%20Everlasting%20Luv%20-%20BREAKERZ.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op26.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-26.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2026%20-%20Everlasting%20Luv%20-%20BREAKERZ.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-26.jpg",
+      "https://archive.org/download/opcover/op26.jpg"
+    ]
   },
   {
     "id": "op-27",
@@ -239,8 +395,14 @@
     "title": "MAGIC",
     "artist": "Aiuchi Rina",
     "releasedOn": "2009-10-21",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2027%20-%20MAGIC%20-%20Aiuchi%20Rina.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op27.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-27.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2027%20-%20MAGIC%20-%20Aiuchi%20Rina.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-27.jpg",
+      "https://archive.org/download/opcover/op27.jpg"
+    ]
   },
   {
     "id": "op-28",
@@ -248,8 +410,14 @@
     "title": "As the Dew",
     "artist": "GARNET CROW",
     "releasedOn": "2010-02-10",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2028%20-%20As%20the%20Dew%20-%20GARNET%20CROW.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op28.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-28.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2028%20-%20As%20the%20Dew%20-%20GARNET%20CROW.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-28.jpg",
+      "https://archive.org/download/opcover/op28.jpg"
+    ]
   },
   {
     "id": "op-29",
@@ -257,8 +425,14 @@
     "title": "Summer Time Gone",
     "artist": "Kuraki Mai",
     "releasedOn": "2010-08-31",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2029%20-%20Summer%20Time%20Gone%20-%20Kuraki%20Mai.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op29.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-29.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2029%20-%20Summer%20Time%20Gone%20-%20Kuraki%20Mai.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-29.jpg",
+      "https://archive.org/download/opcover/op29.jpg"
+    ]
   },
   {
     "id": "op-30",
@@ -266,8 +440,14 @@
     "title": "Tear Drops",
     "artist": "Caos Caos Caos",
     "releasedOn": "2011-02-23",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2030%20-%20Tear%20Drops%20-%20Caos%20Caos%20Caos.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op30.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-30.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2030%20-%20Tear%20Drops%20-%20Caos%20Caos%20Caos.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-30.jpg",
+      "https://archive.org/download/opcover/op30.jpg"
+    ]
   },
   {
     "id": "op-31",
@@ -275,8 +455,14 @@
     "title": "Don't wanna lie",
     "artist": "B'z",
     "releasedOn": "2011-04-30",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2031%20-%20Don%27t%20wanna%20lie%20-%20B%27z.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op31.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-31.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2031%20-%20Don%27t%20wanna%20lie%20-%20B%27z.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-31.jpg",
+      "https://archive.org/download/opcover/op31.jpg"
+    ]
   },
   {
     "id": "op-32",
@@ -284,8 +470,14 @@
     "title": "Misty Mystery",
     "artist": "GARNET CROW",
     "releasedOn": "2011-08-31",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2032%20-%20Misty%20Mystery%20-%20GARNET%20CROW.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op32.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-32.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2032%20-%20Misty%20Mystery%20-%20GARNET%20CROW.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-32.jpg",
+      "https://archive.org/download/opcover/op32.jpg"
+    ]
   },
   {
     "id": "op-33",
@@ -293,8 +485,14 @@
     "title": "Miss Mystery",
     "artist": "BREAKERZ",
     "releasedOn": "2012-01-25",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2033%20-%20Miss%20Mystery%20-%20BREAKERZ.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op33.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-33.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2033%20-%20Miss%20Mystery%20-%20BREAKERZ.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-33.jpg",
+      "https://archive.org/download/opcover/op33.jpg"
+    ]
   },
   {
     "id": "op-34",
@@ -302,8 +500,14 @@
     "title": "Kimi no namida ni konna ni koishiteru",
     "artist": "Natsuiro",
     "releasedOn": "2012-08-29",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2034%20-%20Kimi%20no%20namida%20ni%20konna%20ni%20koishiteru%20-%20Natsuiro.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op34.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-34.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2034%20-%20Kimi%20no%20namida%20ni%20konna%20ni%20koishiteru%20-%20Natsuiro.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-34.jpg",
+      "https://archive.org/download/opcover/op34.jpg"
+    ]
   },
   {
     "id": "op-35",
@@ -311,8 +515,14 @@
     "title": "Try Again",
     "artist": "Kuraki Mai",
     "releasedOn": "2013-02-06",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2035%20-%20Try%20Again%20-%20Kuraki%20Mai.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op35.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-35.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2035%20-%20Try%20Again%20-%20Kuraki%20Mai.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-35.jpg",
+      "https://archive.org/download/opcover/op35.jpg"
+    ]
   },
   {
     "id": "op-36",
@@ -320,8 +530,14 @@
     "title": "Q&A",
     "artist": "B'z",
     "releasedOn": "2013-06-12",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2036%20-%20Q%26A%20-%20B%27z.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op36.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-36.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2036%20-%20Q%26A%20-%20B%27z.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-36.jpg",
+      "https://archive.org/download/opcover/op36.jpg"
+    ]
   },
   {
     "id": "op-37",
@@ -329,8 +545,14 @@
     "title": "Butterfly Core",
     "artist": "VALSHE",
     "releasedOn": "2013-11-27",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2037%20-%20Butterfly%20Core%20-%20VALSHE.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op37.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-37.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2037%20-%20Butterfly%20Core%20-%20VALSHE.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-37.jpg",
+      "https://archive.org/download/opcover/op37.jpg"
+    ]
   },
   {
     "id": "op-38",
@@ -338,8 +560,14 @@
     "title": "Greed",
     "artist": "KNOCK OUT MONKEY",
     "releasedOn": "2014-08-20",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2038%20-%20Greed%20-%20KNOCK%20OUT%20MONKEY.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op38.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-38.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2038%20-%20Greed%20-%20KNOCK%20OUT%20MONKEY.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-38.jpg",
+      "https://archive.org/download/opcover/op38.jpg"
+    ]
   },
   {
     "id": "op-39",
@@ -347,8 +575,14 @@
     "title": "Dynamite",
     "artist": "Kuraki Mai",
     "releasedOn": "2014-11-12",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2039%20-%20Dynamite%20-%20Kuraki%20Mai.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op39.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-39.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2039%20-%20Dynamite%20-%20Kuraki%20Mai.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-39.jpg",
+      "https://archive.org/download/opcover/op39.jpg"
+    ]
   },
   {
     "id": "op-40",
@@ -356,8 +590,14 @@
     "title": "WE GO",
     "artist": "BREAKERZ",
     "releasedOn": "2015-05-20",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2040%20-%20WE%20GO%20-%20BREAKERZ.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op40.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-40.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2040%20-%20WE%20GO%20-%20BREAKERZ.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-40.jpg",
+      "https://archive.org/download/opcover/op40.jpg"
+    ]
   },
   {
     "id": "op-41",
@@ -365,8 +605,14 @@
     "title": "Nazo",
     "artist": "La PomPon",
     "releasedOn": "2015-09-16",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2041%20-%20Nazo%20-%20La%20PomPon.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op41.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-41.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2041%20-%20Nazo%20-%20La%20PomPon.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-41.jpg",
+      "https://archive.org/download/opcover/op41.jpg"
+    ]
   },
   {
     "id": "op-42",
@@ -374,8 +620,14 @@
     "title": "Hane",
     "artist": "Inaba Koshi",
     "releasedOn": "2016-01-13",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2042%20-%20Hane%20-%20Inaba%20Koshi.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op42.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-42.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2042%20-%20Hane%20-%20Inaba%20Koshi.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-42.jpg",
+      "https://archive.org/download/opcover/op42.jpg"
+    ]
   },
   {
     "id": "op-43",
@@ -383,8 +635,14 @@
     "title": "Sekai wa Anata no Iro ni Naru",
     "artist": "B'z",
     "releasedOn": "2016-10-04",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2043%20-%20Sekai%20wa%20Anata%20no%20Iro%20ni%20Naru%20-%20B%27z.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op43.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-43.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2043%20-%20Sekai%20wa%20Anata%20no%20Iro%20ni%20Naru%20-%20B%27z.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-43.jpg",
+      "https://archive.org/download/opcover/op43.jpg"
+    ]
   },
   {
     "id": "op-44",
@@ -392,8 +650,14 @@
     "title": "Ikusen no Meikyuu de Ikusen no Nazo wo Toite",
     "artist": "BREAKERZ",
     "releasedOn": "2017-01-18",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2044%20-%20Ikusen%20no%20Meikyuu%20de%20Ikusen%20no%20Nazo%20wo%20Toite%20-%20BREAKERZ.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op44.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-44.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2044%20-%20Ikusen%20no%20Meikyuu%20de%20Ikusen%20no%20Nazo%20wo%20Toite%20-%20BREAKERZ.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-44.jpg",
+      "https://archive.org/download/opcover/op44.jpg"
+    ]
   },
   {
     "id": "op-45",
@@ -401,8 +665,14 @@
     "title": "Lie Lie Lie",
     "artist": "Ohguro Maki",
     "releasedOn": "2017-09-27",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2045%20-%20Lie%20Lie%20Lie%20-%20Ohguro%20Maki.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op45.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-45.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2045%20-%20Lie%20Lie%20Lie%20-%20Ohguro%20Maki.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-45.jpg",
+      "https://archive.org/download/opcover/op45.jpg"
+    ]
   },
   {
     "id": "op-46",
@@ -410,8 +680,14 @@
     "title": "Everything OK!!",
     "artist": "Cellchrome",
     "releasedOn": "2018-03-14",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2046%20-%20Everything%20OK%21%21%20-%20Cellchrome.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op46.jpg"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-46.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2046%20-%20Everything%20OK%21%21%20-%20Cellchrome.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-46.jpg",
+      "https://archive.org/download/opcover/op46.jpg"
+    ]
   },
   {
     "id": "op-47",
@@ -419,8 +695,14 @@
     "title": "Countdown",
     "artist": "NormCore",
     "releasedOn": "2018-08-29",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2047%20-%20Countdown%20-%20NormCore.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op47.webp"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-47.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2047%20-%20Countdown%20-%20NormCore.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-47.webp",
+      "https://archive.org/download/opcover/op47.webp"
+    ]
   },
   {
     "id": "op-48",
@@ -428,8 +710,14 @@
     "title": "Timeline",
     "artist": "dps",
     "releasedOn": "2018-11-07",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2048%20-%20Timeline%20-%20dps.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op48.webp"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-48.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2048%20-%20Timeline%20-%20dps.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-48.webp",
+      "https://archive.org/download/opcover/op48.webp"
+    ]
   },
   {
     "id": "op-49",
@@ -437,8 +725,14 @@
     "title": "Barairo no Jinsei",
     "artist": "Kuraki Mai",
     "releasedOn": "2019-03-20",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2049%20-%20Barairo%20no%20Jinsei%20-%20Mai%20Kuraki.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op49.webp"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-49.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2049%20-%20Barairo%20no%20Jinsei%20-%20Mai%20Kuraki.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-49.webp",
+      "https://archive.org/download/opcover/op49.webp"
+    ]
   },
   {
     "id": "op-50",
@@ -446,8 +740,14 @@
     "title": "ANSWER",
     "artist": "Only this time",
     "releasedOn": "2019-07-03",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2050%20-%20ANSWER%20-%20Only%20this%20time.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op50.webp"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-50.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2050%20-%20ANSWER%20-%20Only%20this%20time.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-50.webp",
+      "https://archive.org/download/opcover/op50.webp"
+    ]
   },
   {
     "id": "op-51",
@@ -455,8 +755,14 @@
     "title": "Makka na Lip",
     "artist": "WANDS",
     "releasedOn": "2020-01-29",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2051%20-%20Makka%20na%20Lip%20-%20WANDS.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op51.webp"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-51.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2051%20-%20Makka%20na%20Lip%20-%20WANDS.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-51.webp",
+      "https://archive.org/download/opcover/op51.webp"
+    ]
   },
   {
     "id": "op-52",
@@ -464,8 +770,14 @@
     "title": "JUST BELIEVE YOU",
     "artist": "all at once",
     "releasedOn": "2020-10-04",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2052%20-%20JUST%20BELIEVE%20YOU%20-%20all%20at%20once.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op52.webp"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-52.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2052%20-%20JUST%20BELIEVE%20YOU%20-%20all%20at%20once.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-52.webp",
+      "https://archive.org/download/opcover/op52.webp"
+    ]
   },
   {
     "id": "op-53",
@@ -473,8 +785,14 @@
     "title": "ZERO kara Hajimete",
     "artist": "Kuraki Mai",
     "releasedOn": "2021-03-06",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2053%20-%20ZERO%20kara%20Hajimete%20-%20Mai%20Kuraki.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op53.webp"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-53.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2053%20-%20ZERO%20kara%20Hajimete%20-%20Mai%20Kuraki.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-53.webp",
+      "https://archive.org/download/opcover/op53.webp"
+    ]
   },
   {
     "id": "op-54",
@@ -482,8 +800,14 @@
     "title": "YURA YURA",
     "artist": "WANDS",
     "releasedOn": "2021-11-03",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2054%20-%20YURA%20YURA%20-%20WANDS.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op54.webp"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-54.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2054%20-%20YURA%20YURA%20-%20WANDS.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-54.webp",
+      "https://archive.org/download/opcover/op54.webp"
+    ]
   },
   {
     "id": "op-55",
@@ -491,8 +815,14 @@
     "title": "Sleepless",
     "artist": "B'z",
     "releasedOn": "2022-06-24",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2055%20-%20Sleepless%20-%20B%27z.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op55.webp"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-55.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2055%20-%20Sleepless%20-%20B%27z.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-55.webp",
+      "https://archive.org/download/opcover/op55.webp"
+    ]
   },
   {
     "id": "op-56",
@@ -500,8 +830,14 @@
     "title": "Sparkle",
     "artist": "Ohguro Maki",
     "releasedOn": "2022-07-10",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2056%20-%20Sparkle%20-%20Maki%20Ohguro.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op56.webp"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-56.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2056%20-%20Sparkle%20-%20Maki%20Ohguro.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-56.webp",
+      "https://archive.org/download/opcover/op56.webp"
+    ]
   },
   {
     "id": "op-57",
@@ -509,8 +845,14 @@
     "title": "RAISE INSIGHT",
     "artist": "WANDS",
     "releasedOn": "2023-05-17",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2057%20-%20RAISE%20INSIGHT%20-%20WANDS.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op57.webp"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-57.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2057%20-%20RAISE%20INSIGHT%20-%20WANDS.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-57.webp",
+      "https://archive.org/download/opcover/op57.webp"
+    ]
   },
   {
     "id": "op-58",
@@ -518,8 +860,14 @@
     "title": "Unraveling Love ~Sukoshi no Yūki~",
     "artist": "Kuraki Mai",
     "releasedOn": "2023-10-28",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2058%20-%20Unraveling%20Love%20~Sukoshi%20no%20Yu%CC%84ki~%20-%20Mai%20Kuraki.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op58.webp"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-58.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2058%20-%20Unraveling%20Love%20~Sukoshi%20no%20Yu%CC%84ki~%20-%20Mai%20Kuraki.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-58.webp",
+      "https://archive.org/download/opcover/op58.webp"
+    ]
   },
   {
     "id": "op-59",
@@ -527,8 +875,14 @@
     "title": "But No Love",
     "artist": "Rainy。",
     "releasedOn": "2025-01-04",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2059%20-%20But%20No%20Love%20-%20Rainy%E3%80%82.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op59.webp"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-59.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2059%20-%20But%20No%20Love%20-%20Rainy%E3%80%82.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-59.webp",
+      "https://archive.org/download/opcover/op59.webp"
+    ]
   },
   {
     "id": "op-60",
@@ -536,8 +890,14 @@
     "title": "Poker Face",
     "artist": "Amyuri",
     "releasedOn": "2025-07-12",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2060%20-%20Poker%20Face%20-%20Amyuri.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op60.webp"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-60.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2060%20-%20Poker%20Face%20-%20Amyuri.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-60.webp",
+      "https://archive.org/download/opcover/op60.webp"
+    ]
   },
   {
     "id": "op-61",
@@ -545,8 +905,14 @@
     "title": "Heaven Knows",
     "artist": "B'z",
     "releasedOn": "2026-04-08",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2061%20-%20Heaven%20Knows%20-%20B%27z.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op61.webp"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-61.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2061%20-%20Heaven%20Knows%20-%20B%27z.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-61.webp",
+      "https://archive.org/download/opcover/op61.webp"
+    ]
   },
   {
     "id": "op-62",
@@ -554,7 +920,13 @@
     "title": "Ai no FIRE",
     "artist": "Niihama Leon",
     "releasedOn": "2026-07-11",
-    "audioUrl": "https://archive.org/download/opening_201802/Detective%20conan%20opening%2062%20-%20Ai%20no%20FIRE%20-%20Leon%20Niihama.mp3",
-    "artworkUrl": "https://archive.org/download/opcover/op62.webp"
+    "audioUrls": [
+      "https://cns-24c.pages.dev/m/op/op-62.mp3",
+      "https://archive.org/download/opening_201802/Detective%20conan%20opening%2062%20-%20Ai%20no%20FIRE%20-%20Leon%20Niihama.mp3"
+    ],
+    "artworkUrls": [
+      "https://cns-24c.pages.dev/p/op/op-62.webp",
+      "https://archive.org/download/opcover/op62.webp"
+    ]
   }
 ]
