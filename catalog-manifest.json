@@ -1,7 +1,14 @@
 {
-    "version": 8,
-    "updatedAt": "2026-11-21",
+    "version": 9,
+    "updatedAt": "2026-11-23",
     "changelog": [
+      {
+        "version": 9,
+        "date": "2026-11-23",
+        "notes": [
+          "Samples: videoUrls, Pages file per song then archive.org videoplayback_20261120_1708"
+        ]
+      },
       {
         "version": 8,
         "date": "2026-11-21",
