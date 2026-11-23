@@ -1,6 +1,7 @@
 [
   {
     "id": "op-1",
+    "kind": "opening",
     "number": 1,
     "title": "Mune ga doki doki",
     "artist": "The High-Lows",
@@ -17,6 +18,7 @@
   },
   {
     "id": "op-2",
+    "kind": "opening",
     "number": 2,
     "title": "Feel Your Heart",
     "artist": "Velvet Garden",
@@ -33,6 +35,7 @@
   },
   {
     "id": "op-3",
+    "kind": "opening",
     "number": 3,
     "title": "Nazo",
     "artist": "Komatsu Miho",
@@ -49,6 +52,7 @@
   },
   {
     "id": "op-4",
+    "kind": "opening",
     "number": 4,
     "title": "Unmei no roulette mawashite",
     "artist": "ZARD",
@@ -65,6 +69,7 @@
   },
   {
     "id": "op-5",
+    "kind": "opening",
     "number": 5,
     "title": "Truth ~A Great Detective of Love~",
     "artist": "TWO-MIX",
@@ -81,6 +86,7 @@
   },
   {
     "id": "op-6",
+    "kind": "opening",
     "number": 6,
     "title": "Giri Giri Chop",
     "artist": "B'z",
@@ -97,6 +103,7 @@
   },
   {
     "id": "op-7",
+    "kind": "opening",
     "number": 7,
     "title": "Mysterious Eyes",
     "artist": "GARNET CROW",
@@ -113,6 +120,7 @@
   },
   {
     "id": "op-8",
+    "kind": "opening",
     "number": 8,
     "title": "Koi Wa, THRILL, SHOCK, SUSPENSE",
     "artist": "Aiuchi Rina",
@@ -129,6 +137,7 @@
   },
   {
     "id": "op-9",
+    "kind": "opening",
     "number": 9,
     "title": "Destiny",
     "artist": "Matsuhashi Miki",
@@ -145,6 +154,7 @@
   },
   {
     "id": "op-10",
+    "kind": "opening",
     "number": 10,
     "title": "Winter Bells",
     "artist": "Kuraki Mai",
@@ -161,6 +171,7 @@
   },
   {
     "id": "op-11",
+    "kind": "opening",
     "number": 11,
     "title": "I Can't Stop My Love For You",
     "artist": "Aiuchi Rina",
@@ -177,6 +188,7 @@
   },
   {
     "id": "op-12",
+    "kind": "opening",
     "number": 12,
     "title": "Kaze No Lalala",
     "artist": "Kuraki Mai",
@@ -193,6 +205,7 @@
   },
   {
     "id": "op-13",
+    "kind": "opening",
     "number": 13,
     "title": "Kimi to Yakusoku Shita Yasashii Ano Basho Made",
     "artist": "Saegusa U-ka in db",
@@ -209,6 +222,7 @@
   },
   {
     "id": "op-14",
+    "kind": "opening",
     "number": 14,
     "title": "START",
     "artist": "Aiuchi Rina",
@@ -225,6 +239,7 @@
   },
   {
     "id": "op-15",
+    "kind": "opening",
     "number": 15,
     "title": "Hoshi no Kagayaki yo",
     "artist": "ZARD",
@@ -241,6 +256,7 @@
   },
   {
     "id": "op-16",
+    "kind": "opening",
     "number": 16,
     "title": "Growing of my Heart",
     "artist": "Kuraki Mai",
@@ -257,6 +273,7 @@
   },
   {
     "id": "op-17",
+    "kind": "opening",
     "number": 17,
     "title": "Shoudou",
     "artist": "B'z",
@@ -273,6 +290,7 @@
   },
   {
     "id": "op-18",
+    "kind": "opening",
     "number": 18,
     "title": "100 Mono Tobira",
     "artist": "Aiuchi Rina & Saegusa U-ka",
@@ -289,6 +307,7 @@
   },
   {
     "id": "op-19",
+    "kind": "opening",
     "number": 19,
     "title": "Kumo ni Notte",
     "artist": "Saegusa U-ka in db",
@@ -305,6 +324,7 @@
   },
   {
     "id": "op-20",
+    "kind": "opening",
     "number": 20,
     "title": "Namida no YESTERDAY",
     "artist": "GARNET CROW",
@@ -321,6 +341,7 @@
   },
   {
     "id": "op-21",
+    "kind": "opening",
     "number": 21,
     "title": "GLORIOUS MIND",
     "artist": "ZARD",
@@ -337,6 +358,7 @@
   },
   {
     "id": "op-22",
+    "kind": "opening",
     "number": 22,
     "title": "Ai wa Kurayami no Naka de",
     "artist": "ZARD (feat.Kamiki Aya & Morishita Siyon)",
@@ -353,6 +375,7 @@
   },
   {
     "id": "op-23",
+    "kind": "opening",
     "number": 23,
     "title": "Love for you",
     "artist": "Kuraki Mai",
@@ -369,6 +392,7 @@
   },
   {
     "id": "op-24",
+    "kind": "opening",
     "number": 24,
     "title": "Mysterious",
     "artist": "Naifu",
@@ -385,6 +409,7 @@
   },
   {
     "id": "op-25",
+    "kind": "opening",
     "number": 25,
     "title": "Revive",
     "artist": "Kuraki Mai",
@@ -401,6 +426,7 @@
   },
   {
     "id": "op-26",
+    "kind": "opening",
     "number": 26,
     "title": "Everlasting Luv",
     "artist": "BREAKERZ",
@@ -417,6 +443,7 @@
   },
   {
     "id": "op-27",
+    "kind": "opening",
     "number": 27,
     "title": "MAGIC",
     "artist": "Aiuchi Rina",
@@ -433,6 +460,7 @@
   },
   {
     "id": "op-28",
+    "kind": "opening",
     "number": 28,
     "title": "As the Dew",
     "artist": "GARNET CROW",
@@ -449,6 +477,7 @@
   },
   {
     "id": "op-29",
+    "kind": "opening",
     "number": 29,
     "title": "Summer Time Gone",
     "artist": "Kuraki Mai",
@@ -465,6 +494,7 @@
   },
   {
     "id": "op-30",
+    "kind": "opening",
     "number": 30,
     "title": "Tear Drops",
     "artist": "Caos Caos Caos",
@@ -481,6 +511,7 @@
   },
   {
     "id": "op-31",
+    "kind": "opening",
     "number": 31,
     "title": "Don't wanna lie",
     "artist": "B'z",
@@ -497,6 +528,7 @@
   },
   {
     "id": "op-32",
+    "kind": "opening",
     "number": 32,
     "title": "Misty Mystery",
     "artist": "GARNET CROW",
@@ -513,6 +545,7 @@
   },
   {
     "id": "op-33",
+    "kind": "opening",
     "number": 33,
     "title": "Miss Mystery",
     "artist": "BREAKERZ",
@@ -529,6 +562,7 @@
   },
   {
     "id": "op-34",
+    "kind": "opening",
     "number": 34,
     "title": "Kimi no namida ni konna ni koishiteru",
     "artist": "Natsuiro",
@@ -545,6 +579,7 @@
   },
   {
     "id": "op-35",
+    "kind": "opening",
     "number": 35,
     "title": "Try Again",
     "artist": "Kuraki Mai",
@@ -561,6 +596,7 @@
   },
   {
     "id": "op-36",
+    "kind": "opening",
     "number": 36,
     "title": "Q&A",
     "artist": "B'z",
@@ -577,6 +613,7 @@
   },
   {
     "id": "op-37",
+    "kind": "opening",
     "number": 37,
     "title": "Butterfly Core",
     "artist": "VALSHE",
@@ -593,6 +630,7 @@
   },
   {
     "id": "op-38",
+    "kind": "opening",
     "number": 38,
     "title": "Greed",
     "artist": "KNOCK OUT MONKEY",
@@ -609,6 +647,7 @@
   },
   {
     "id": "op-39",
+    "kind": "opening",
     "number": 39,
     "title": "Dynamite",
     "artist": "Kuraki Mai",
@@ -625,6 +664,7 @@
   },
   {
     "id": "op-40",
+    "kind": "opening",
     "number": 40,
     "title": "WE GO",
     "artist": "BREAKERZ",
@@ -641,6 +681,7 @@
   },
   {
     "id": "op-41",
+    "kind": "opening",
     "number": 41,
     "title": "Nazo",
     "artist": "La PomPon",
@@ -657,6 +698,7 @@
   },
   {
     "id": "op-42",
+    "kind": "opening",
     "number": 42,
     "title": "Hane",
     "artist": "Inaba Koshi",
@@ -673,6 +715,7 @@
   },
   {
     "id": "op-43",
+    "kind": "opening",
     "number": 43,
     "title": "Sekai wa Anata no Iro ni Naru",
     "artist": "B'z",
@@ -689,6 +732,7 @@
   },
   {
     "id": "op-44",
+    "kind": "opening",
     "number": 44,
     "title": "Ikusen no Meikyuu de Ikusen no Nazo wo Toite",
     "artist": "BREAKERZ",
@@ -705,6 +749,7 @@
   },
   {
     "id": "op-45",
+    "kind": "opening",
     "number": 45,
     "title": "Lie Lie Lie",
     "artist": "Ohguro Maki",
@@ -721,6 +766,7 @@
   },
   {
     "id": "op-46",
+    "kind": "opening",
     "number": 46,
     "title": "Everything OK!!",
     "artist": "Cellchrome",
@@ -737,6 +783,7 @@
   },
   {
     "id": "op-47",
+    "kind": "opening",
     "number": 47,
     "title": "Countdown",
     "artist": "NormCore",
@@ -753,6 +800,7 @@
   },
   {
     "id": "op-48",
+    "kind": "opening",
     "number": 48,
     "title": "Timeline",
     "artist": "dps",
@@ -769,6 +817,7 @@
   },
   {
     "id": "op-49",
+    "kind": "opening",
     "number": 49,
     "title": "Barairo no Jinsei",
     "artist": "Kuraki Mai",
@@ -785,6 +834,7 @@
   },
   {
     "id": "op-50",
+    "kind": "opening",
     "number": 50,
     "title": "ANSWER",
     "artist": "Only this time",
@@ -801,6 +851,7 @@
   },
   {
     "id": "op-51",
+    "kind": "opening",
     "number": 51,
     "title": "Makka na Lip",
     "artist": "WANDS",
@@ -817,6 +868,7 @@
   },
   {
     "id": "op-52",
+    "kind": "opening",
     "number": 52,
     "title": "JUST BELIEVE YOU",
     "artist": "all at once",
@@ -833,6 +885,7 @@
   },
   {
     "id": "op-53",
+    "kind": "opening",
     "number": 53,
     "title": "ZERO kara Hajimete",
     "artist": "Kuraki Mai",
@@ -849,6 +902,7 @@
   },
   {
     "id": "op-54",
+    "kind": "opening",
     "number": 54,
     "title": "YURA YURA",
     "artist": "WANDS",
@@ -865,6 +919,7 @@
   },
   {
     "id": "op-55",
+    "kind": "opening",
     "number": 55,
     "title": "Sleepless",
     "artist": "B'z",
@@ -881,6 +936,7 @@
   },
   {
     "id": "op-56",
+    "kind": "opening",
     "number": 56,
     "title": "Sparkle",
     "artist": "Ohguro Maki",
@@ -897,6 +953,7 @@
   },
   {
     "id": "op-57",
+    "kind": "opening",
     "number": 57,
     "title": "RAISE INSIGHT",
     "artist": "WANDS",
@@ -913,6 +970,7 @@
   },
   {
     "id": "op-58",
+    "kind": "opening",
     "number": 58,
     "title": "Unraveling Love ~Sukoshi no Yūki~",
     "artist": "Kuraki Mai",
@@ -929,6 +987,7 @@
   },
   {
     "id": "op-59",
+    "kind": "opening",
     "number": 59,
     "title": "But No Love",
     "artist": "Rainy。",
@@ -945,6 +1004,7 @@
   },
   {
     "id": "op-60",
+    "kind": "opening",
     "number": 60,
     "title": "Poker Face",
     "artist": "Amyuri",
@@ -961,6 +1021,7 @@
   },
   {
     "id": "op-61",
+    "kind": "opening",
     "number": 61,
     "title": "Heaven Knows",
     "artist": "B'z",
@@ -977,6 +1038,7 @@
   },
   {
     "id": "op-62",
+    "kind": "opening",
     "number": 62,
     "title": "Ai no FIRE",
     "artist": "Niihama Leon",
