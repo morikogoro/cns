@@ -1,7 +1,14 @@
 {
-    "version": 11,
+    "version": 12,
     "updatedAt": "2026-11-23",
     "changelog": [
+      {
+        "version": 12,
+        "date": "2026-11-23",
+        "notes": [
+          "Tracks: optional videoUrls on openings and endings; samples list removed"
+        ]
+      },
       {
         "version": 11,
         "date": "2026-11-23",
@@ -76,7 +83,6 @@
       }
     ],
     "suggestedPlaylists": "suggested-playlists.json",
-    "samples": "samples.json",
     "groups": [
       {
         "id": "openings",
@@ -108,7 +114,6 @@
       "endings.json": "https://raw.githubusercontent.com/morikogoro/cns/main/endings.json",
       "movie_openings.json": "https://raw.githubusercontent.com/morikogoro/cns/main/movie_openings.json",
       "movie_endings.json": "https://raw.githubusercontent.com/morikogoro/cns/main/movie_endings.json",
-      "suggested-playlists.json": "https://raw.githubusercontent.com/morikogoro/cns/main/suggested-playlists.json",
-      "samples.json": "https://raw.githubusercontent.com/morikogoro/cns/main/samples.json"
+      "suggested-playlists.json": "https://raw.githubusercontent.com/morikogoro/cns/main/suggested-playlists.json"
     }
   }
