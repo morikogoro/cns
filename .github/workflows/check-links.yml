@@ -1,0 +1,28 @@
+name: Check catalog links
+
+on:
+  schedule:
+    # Mondays at 02:17 UTC. Off the hour, when GitHub's queue is less busy.
+    - cron: "17 2 * * 1"
+  push:
+    branches: [main]
+    paths:
+      - "*.json"
+      - "scripts/check_links.py"
+      - ".github/workflows/check-links.yml"
+  # Adds the "Run workflow" button.
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      # Exits with 1 on any problem. The run then fails and GitHub sends an email.
+      - run: python3 scripts/check_links.py .
